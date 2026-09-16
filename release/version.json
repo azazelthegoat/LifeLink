@@ -1,12 +1,12 @@
 {
   "product": "Life Link",
   "vendor": "AM Labs",
-  "version": "1.0.11",
-  "version_code": 10011,
-  "notes": "OTA pointed at the AM Labs repo.",
-  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.0.11.bin",
-  "size": 1503376,
-  "sha256": "52c99cb53b8ce754e44533beef2085ae907de75f2b42119c05bffbaf78424e68",
+  "version": "1.0.12",
+  "version_code": 10012,
+  "notes": "Menus in the Life Link colours",
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.0.12.bin",
+  "size": 1503408,
+  "sha256": "866f7eed2231f259fcc1f89fa7db16a1af2517f79ce415954ea98fc38ff1e67b",
   "min_version_code": 0,
   "published": "2026-09-16"
 }
