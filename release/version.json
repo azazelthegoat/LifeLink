@@ -1,12 +1,12 @@
 {
   "product": "Life Link",
   "vendor": "AM Labs",
-  "version": "1.0.13",
-  "version_code": 10013,
-  "notes": "WiFi now survives an update, and you can join a network on the device",
-  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.0.13.bin",
-  "size": 1507488,
-  "sha256": "ca811af8ccc39fe8b7d0821071f8d6c8a298dc8a2cef471bde058464712c12db",
+  "version": "1.0.14",
+  "version_code": 10014,
+  "notes": "Menu cull, QWERTY keyboard, bigger ring, card art backgrounds",
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.0.14.bin",
+  "size": 1515136,
+  "sha256": "9553c3c44182228bc050fa69b029ca6bbc5deccac23b14cc151668cb4b308db6",
   "min_version_code": 0,
   "published": "2026-09-16"
 }
