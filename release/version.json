@@ -1,0 +1,12 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.0.28",
+  "version_code": 10028,
+  "notes": "A ring lobby with a proper colour wheel, a two-step seat setup, and three new arcade cabinets.",
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.0.28.bin",
+  "size": 1575152,
+  "sha256": "d5b9cd67afff3605fd915e220f0b02e5305a52ac0b941859c08ea33a52e6de4e",
+  "min_version_code": 0,
+  "published": "2026-09-17"
+}
