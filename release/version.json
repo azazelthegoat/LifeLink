@@ -1,0 +1,11 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.0.32",
+  "version_code": 10032,
+  "notes": "Lite: split face, dice and coins with shake-to-roll, 3x3 shutter over two pages",
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.0.32.bin",
+  "size": 1582336,
+  "sha256": "72df8f6273b7f860496394a8295ae4b7081d2df7c003bafda8e1185e19552ec1",
+  "min_version_code": 0
+}
