@@ -1,0 +1,16 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.6.1",
+  "version_code": 10601,
+  "notes": [
+    "Your counters fill the bottom of the face first and never sit under an opponent's panel; Monarch shows on their panels",
+    "Hold a life total or the turn marker on the split face for the game menu (end game there)",
+    "Turn 2 starts when the turn comes back to whoever won the roll, not to player 1",
+    "Solo: END TURN keeps the turn number until you press START TURN again"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.6.1.bin",
+  "size": 1900240,
+  "sha256": "8ddbbf72189bcd5f4f9561b04bba0c261d2e8dc76039e6c0d0b5829796b1c47e",
+  "min_version_code": 0
+}
