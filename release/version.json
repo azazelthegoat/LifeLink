@@ -1,0 +1,11 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.5.1",
+  "version_code": 10501,
+  "notes": "Token remove button moved to the bottom of the screen.",
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.5.1.bin",
+  "size": 1890592,
+  "sha256": "7f5c208f58a94259a66de72e3726be1e78484a795eb5eb5bb1ee6bdff7f26cf6",
+  "min_version_code": 0
+}
