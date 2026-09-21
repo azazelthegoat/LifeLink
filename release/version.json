@@ -1,0 +1,16 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.7.1",
+  "version_code": 10701,
+  "notes": [
+    "Card Art is a list now: SCRYFALL, FACE ART (scroll and pick from /faceart), POSITION, DARKNESS 10-100 (live), BACKGROUND on/off",
+    "Every scrolling list shows its place as an arc on the right rim, the way the print search does",
+    "Clock on the LTD face too; zone defaults to Alberta (UTC-7) with automatic daylight saving (DAYLIGHT switch)",
+    "1.7.0: EXTRAS > CLOCK, Lights OFF timer (0-20 min), Setup trimmed + About with notes, built-in picture removed"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.7.1.bin",
+  "size": 1895408,
+  "sha256": "2a6c0ae59f6dfeff64515d09a1c22dcbadec4f18eef0290aa9504bdd7ab234ca",
+  "min_version_code": 0
+}
