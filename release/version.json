@@ -1,0 +1,11 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.5.6",
+  "version_code": 10506,
+  "notes": "Battery: steadier reading, plus time-on-battery and estimated hours left.",
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.5.6.bin",
+  "size": 1892608,
+  "sha256": "86a383171ecc098c9b05d1311df96cd2e5651950f40e6e3dff68cb4333104e99",
+  "min_version_code": 0
+}
