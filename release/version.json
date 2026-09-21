@@ -1,0 +1,16 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.8.0",
+  "version_code": 10800,
+  "notes": [
+    "Decks: put <player>.txt files in /decks (Name | link, one a line) and pick a deck from the NEW GAME deck line; tools/moxfield_decks.py writes one from Moxfield",
+    "LEADERBOARD (was NIGHT): START NIGHT wipes the tallies and opens /leaderboards/<date>.csv; every result appends a line",
+    "Teams: PLAYERS picks who is here tonight, TEAMS sets how many teams a roll makes (auto = pairs), leftovers sit out and go in first next roll",
+    "The card gets only these folders: music, sfx, mjpeg, faceart, tokens, emblems, counters, decks, leaderboards"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.8.0.bin",
+  "size": 1903280,
+  "sha256": "9b3d09e595cf4ff3ce0e1524f9b9812dcce8b843a590d6a58ebe08bfe06b0fa3",
+  "min_version_code": 0
+}
