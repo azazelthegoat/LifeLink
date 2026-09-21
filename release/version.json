@@ -1,0 +1,15 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.8.2",
+  "version_code": 10802,
+  "notes": [
+    "COPIES cards use a real card frame: name and cost on top, type and set, rules text, source and P/T at the foot",
+    "COPIES now holds every Unfinity attraction (lights in the footer, knob flips a card's printings); search 'attraction' and DRAW opens one at random",
+    "PRINT > STICKERS: the 48 Unfinity sticker sheets as NAMES / ABILITIES / PT prints, like the counters (tools/make_stickers.py)"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.8.2.bin",
+  "size": 1905392,
+  "sha256": "b918d8990531e359a29b75c435a18c5650d9a9a00a473a3c5e8d5fd43a946d42",
+  "min_version_code": 0
+}
