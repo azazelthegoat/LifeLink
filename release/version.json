@@ -1,0 +1,17 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.7.2",
+  "version_code": 10702,
+  "notes": [
+    "Rows, buttons and boxes get a dark plate when a picture is behind them, so their words stay readable",
+    "Card Art is a list: SCRYFALL, FACE ART (pick from /faceart), POSITION, DARKNESS 10-100 live, BACKGROUND on/off (1.7.1)",
+    "Every scrolling list shows its place as an arc on the right rim (1.7.1)",
+    "Clock: EXTRAS > CLOCK, Alberta by default with daylight saving; on the face, LTD face and Options (1.7.0-1.7.1)",
+    "Lights OFF timer 0-20 min; Setup trimmed; About shows what changed; built-in picture removed (1.7.0)"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.7.2.bin",
+  "size": 1895552,
+  "sha256": "d4d8ddc3735643ff2ab49453e917041e327076a1f75ad1f8365f45037ebf4e18",
+  "min_version_code": 0
+}
