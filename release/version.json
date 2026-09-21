@@ -1,0 +1,11 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.6.0",
+  "version_code": 10600,
+  "notes": "New Game rebuilt; game menu on hold; roll-for-first fixed; knock-out and end vote; set life and infinite.",
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.6.0.bin",
+  "size": 1899760,
+  "sha256": "30351f9cdfe4c487dffc7bb210955665af0af6a7beb4eaf37c68d69b60b236cb",
+  "min_version_code": 0
+}
