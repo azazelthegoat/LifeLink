@@ -1,0 +1,14 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.8.4",
+  "version_code": 10804,
+  "notes": [
+    "PRINT > COPIES is a menu: GARTH ONE-EYE, ERSTA, INTERROG. ROBOT, ALL COPIES - each page lists just that card's copies and DRAW picks from them",
+    "1.8.3: ATTRACTIONS is its own library with DRAW"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.8.4.bin",
+  "size": 1906224,
+  "sha256": "d7b70eeb7b0590694ff76a7eacdbff0a02615226ae234f6a7c74a4239fa159ea",
+  "min_version_code": 0
+}
