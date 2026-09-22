@@ -1,0 +1,14 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.9.3",
+  "version_code": 10903,
+  "notes": [
+    "Keyboard: a SPIN keyboard -- letters round the rim, the knob picks, a press types, a hold is done. The pill on the keyboard switches between SPIN and KEYS and the choice is remembered.",
+    "Touch: SETUP > TOUCH shows where the panel thinks your finger is, and ADJUST corrects a panel that reads a few pixels off, for every screen. RESET undoes it."
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.9.3.bin",
+  "size": 1958880,
+  "sha256": "b0c31b5ba903b24924e211ca6178dafbb66cab89dbf39f02b979f34a4f3cc2b9",
+  "min_version_code": 0
+}
