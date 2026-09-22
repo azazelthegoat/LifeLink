@@ -1,0 +1,13 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "1.9.5",
+  "version_code": 10905,
+  "notes": [
+    "Options: a quick row under the title -- VOLUME, BRIGHTNESS and UPDATE. Tap volume or brightness for a slider you set with the knob or a finger; it takes effect as you turn. Turning the knob up past GAME steps into the row."
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-1.9.5.bin",
+  "size": 1960784,
+  "sha256": "326d47a306ff69ed122a284ce2bd4497245ae50bcc2b9fdafe353e647118241b",
+  "min_version_code": 0
+}
