@@ -1,0 +1,16 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.2.0",
+  "version_code": 20200,
+  "notes": [
+    "Sounds: EXTRAS > SFX lists the .wav files in /sfx and plays them through the speaker; the first row is the test tone. The AMP chip there keeps the amp on all the time instead of resting after two seconds of quiet -- try it if the speaker is silent.",
+    "Speaker: a short pause after the amp wakes, so a quick effect no longer loses its start.",
+    "Options: the wheel wears the guild -- plates in the guild's edge colour, the highlight in its accent.",
+    "Theme: the guild picker is a wheel of eleven wedges, each in its own two colours; turn or tap, the screen repaints in it, tap the hub to keep it, hold the knob to put it back."
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.2.0.bin",
+  "size": 1974160,
+  "sha256": "07725f4e6e83047f2e23ba38dd02bfd8d642b324c6ae3f5ed75814e1119c853f",
+  "min_version_code": 0
+}
