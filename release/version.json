@@ -1,0 +1,16 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.5.1",
+  "version_code": 20501,
+  "notes": [
+    "Game Boy: hold the knob or swipe right from the left edge for the menu: RESUME, SAVE STATE, LOAD STATE, OVERLAY, PICTURE, QUIT",
+    "Game Boy: a button overlay over the game (OVERLAY, 0-100% opacity) shows the D-pad, A, B and SELECT zones",
+    "Game Boy: PICTURE fit (1.5x, whole picture inside the circle) or fill (2x, corners under the bezel)",
+    "Game Boy: faster -- small ROMs run from internal RAM and the core is built at -O2; the menu shows the machine's fps"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.5.1.bin",
+  "size": 2033104,
+  "sha256": "39805400193a465acb79ecdad5357ed4b1d681886e647f6af8c07f25432994c0",
+  "min_version_code": 0
+}
