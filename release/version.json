@@ -1,0 +1,14 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.4.2",
+  "version_code": 20402,
+  "notes": [
+    "POSITION zooms out as well as in (50-250%); below 100% the whole picture sits in the square with black around it",
+    "POSITION has three buttons: ZOOM and SLIDE choose what the knob does (tap SLIDE again to swap the axis); SHOW clears the glass until the < at the bottom; a finger slides in every mode"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.4.2.bin",
+  "size": 2005136,
+  "sha256": "d02d39bf5fa388592807ee9a3c1898b83d7c6e4bd59a2a5f864cdef011583659",
+  "min_version_code": 0
+}
