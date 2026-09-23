@@ -1,0 +1,15 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.6.8",
+  "version_code": 20608,
+  "notes": [
+    "The shutter now really is two cached pictures a frame (2.6.7 said so but shipped without it -- sorry); the slide should be smooth",
+    "SETUP > SHUTTER: Slide, or Fade -- the wheel fades in over the face instead of dropping down",
+    "Giant: a counter it has is a tinted plate with bright text; the one just chosen is gold"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.6.8.bin",
+  "size": 2052144,
+  "sha256": "5c45919b00976248e350fa000471c1d1e0cc39741cc6ac651eca8e4a30d8b657",
+  "min_version_code": 0
+}
