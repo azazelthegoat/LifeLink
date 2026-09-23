@@ -1,0 +1,15 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.6.7",
+  "version_code": 20607,
+  "notes": [
+    "The shutter slides two cached pictures instead of redrawing the face and the wheel every frame -- smooth now",
+    "GAME > GIANT: Crystalline Giant's counters -- tap what it has, COMBAT picks a missing kind at random, PRINT sends that counter to the printer",
+    "Hold the Giant's P/T for a new one; a GIANT quick action"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.6.7.bin",
+  "size": 2051328,
+  "sha256": "abdc26f594c75c22f4d3b2cfd91932e73be0ccec91af380bfb9291b2a4714b51",
+  "min_version_code": 0
+}
