@@ -1,0 +1,14 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.5.3",
+  "version_code": 20503,
+  "notes": [
+    "Game Boy overlay: a faint white outline of the D-pad with nothing inside it; START marked along the bottom (a tap there is START, as is the knob press)",
+    "Game Boy PICTURE: fill 2x, fit 1.5x, or fit smooth (a linear filter that softens the 1.5x step)"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.5.3.bin",
+  "size": 2033840,
+  "sha256": "6d80388b5fa06b22772cba4e508d4ddd4feb40f0f5bca8f8714bc1829940d787",
+  "min_version_code": 0
+}
