@@ -1,0 +1,14 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.7.3",
+  "version_code": 20703,
+  "notes": [
+    "ADD-ONS > ATTRACTIONS: an Unfinity side deck -- constructed (10, singleton) or limited, OPEN, a d6 VISIT that lights the open ones, and a junkyard",
+    "Print libraries can live in sub-folders (make_cards.py now makes one per set)"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.7.3.bin",
+  "size": 2274688,
+  "sha256": "7a4df0d89f490be3b04f12c5c227924fbcbead3cfe120c8dfa17ff02ec9b60f7",
+  "min_version_code": 0
+}
