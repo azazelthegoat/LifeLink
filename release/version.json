@@ -1,0 +1,10 @@
+{
+  "version": "2.8.12",
+  "version_code": 20812,
+  "size": 2305120,
+  "sha256": "10e3109e2945e3cc250a73892b6086618d90c04040c168ef4e6bfec81b12a56f",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.8.12.bin",
+  "notes": [
+    "PRINTER > DARKNESS: Lightest / Light / Medium / Dark / Darkest for the Bluetooth printer (was fixed, a step darker than Medium)"
+  ]
+}
