@@ -1,0 +1,10 @@
+{
+  "version": "2.8.14",
+  "version_code": 20814,
+  "size": 2305584,
+  "sha256": "d65040c2dca9ad8848a22f7a47bc779a5c2b20feca179c211c8d24c90aec2f9b",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.8.14.bin",
+  "notes": [
+    "PRINTER > SPEAKS > Label / fast asks the printer for a short connection interval: the card goes in seconds"
+  ]
+}
