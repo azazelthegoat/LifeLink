@@ -1,0 +1,14 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.8.3",
+  "version_code": 20803,
+  "notes": [
+    "ADD-ONS > MOMIR: pick X, tap MOMIR, a random creature with that mana value opens to print as the token; the board log stacks up",
+    "The cards index carries mana values (make_cards.py, or add_mana_values.py on an existing dump)"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.8.3.bin",
+  "size": 2293408,
+  "sha256": "879bf13cb9e8b76d426f232d71386f188bfa84a71d2e54234388d53e09d04e67",
+  "min_version_code": 0
+}
