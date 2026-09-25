@@ -1,0 +1,11 @@
+{
+  "version": "2.8.13",
+  "version_code": 20813,
+  "size": 2305680,
+  "sha256": "c7fd3f91fd9e142866f7dc0ccbbd0ed4edff58127424389cd2f927918e834bbd",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.8.13.bin",
+  "notes": [
+    "PRINTER > DARKNESS now runs 1 to 15 and slows the head as it darkens",
+    "USB drive: a computer's suspend no longer remounts the card; failed sector reads and remounts are retried"
+  ]
+}
