@@ -1,0 +1,13 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.8.10",
+  "version_code": 20810,
+  "notes": [
+    "M110: sent at a phone's pace (about 2 KB/s) on the printer's own connection interval; the printer's replies are logged"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.8.10.bin",
+  "size": 2304096,
+  "sha256": "828da12aa67597993a429b4854ceaf9fa52156663d1095a240a4f22db269a1e5",
+  "min_version_code": 0
+}
