@@ -1,0 +1,13 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.8.7",
+  "version_code": 20807,
+  "notes": [
+    "Bluetooth printing: waits out a slow printer instead of giving up, asks for a faster link, always sends the end-of-job, and logs the whole exchange over USB"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.8.7.bin",
+  "size": 2303424,
+  "sha256": "d41e467bf008c02cce61ce11125c36d784baed1ff06a42fb3d26079d2cbb6ee6",
+  "min_version_code": 0
+}
