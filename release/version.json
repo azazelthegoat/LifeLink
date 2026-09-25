@@ -1,0 +1,13 @@
+{
+  "product": "Life Link",
+  "vendor": "AM Labs",
+  "version": "2.8.5",
+  "version_code": 20805,
+  "notes": [
+    "Bluetooth printing: acknowledged writes sized to the link, retried instead of abandoned -- the job no longer stops a tenth of the way in"
+  ],
+  "url": "https://raw.githubusercontent.com/azazelthegoat/LifeLink/main/release/lifelink-2.8.5.bin",
+  "size": 2296096,
+  "sha256": "b9086abab3ebc420649fe188c28fbca33ef0e9a303c8047bdcf3ca8640ac6469",
+  "min_version_code": 0
+}
