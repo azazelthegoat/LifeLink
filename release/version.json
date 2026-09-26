@@ -1,0 +1,10 @@
+{
+  "version": "2.8.18",
+  "version_code": 20818,
+  "size": 2306960,
+  "sha256": "51d517e0f90fdaf772f12f7222a5b0890328a13850df48f9f414b127f10a15d7",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.8.18.bin",
+  "notes": [
+    "Bluetooth: nothing is logged from the radio's own task any more; a busy radio says so instead of stalling"
+  ]
+}
