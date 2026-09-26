@@ -1,0 +1,13 @@
+{
+  "version": "2.8.27",
+  "version_code": 20827,
+  "size": 2331824,
+  "sha256": "bfaf71befa4d7b0ad7616b29744372642e7c4575105ee808166aba099ec0ac1b",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.8.27.bin",
+  "notes": [
+    "SYSTEM > WIFI > FILES: the SD card in a browser -- upload, delete, download over WiFi, no USB",
+    "Card art: what you type lists the matching names first; pick one and the art comes down",
+    "The log never waits on a USB port nobody is reading (USB copies rebooted the device unless a terminal was open)",
+    "ADD-ONS > CHALLENGE: the three Theros challenge decks as decks you print from, with two random heroes"
+  ]
+}
