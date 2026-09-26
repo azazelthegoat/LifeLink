@@ -1,0 +1,10 @@
+{
+  "version": "2.8.17",
+  "version_code": 20817,
+  "size": 2306624,
+  "sha256": "02d4b023eda58e6d38bad95b6a94494c1b9033b113dc575a2f0598266ec8f31b",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.8.17.bin",
+  "notes": [
+    "Bluetooth printing: leftover connections cleared before a job; the log says each step"
+  ]
+}
