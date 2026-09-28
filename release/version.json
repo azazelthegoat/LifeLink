@@ -1,0 +1,14 @@
+{
+  "version": "2.8.29",
+  "version_code": 20829,
+  "size": 2341488,
+  "sha256": "336c9675d58602b3897f6b90e8a89658bef604af768abe903df60987e83d3c63",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.8.29.bin",
+  "notes": [
+    "GAME BOY > PAD: pair a Bluetooth controller and teach it the eight buttons",
+    "Keyboard: hold DELETE to repeat; long-press the text (or the search box) to clear it",
+    "Heavy screens make room first: Bluetooth and an idle WiFi let go, and the Game Boy falls back to PSRAM instead of failing",
+    "A Bluetooth scan that will not start restarts the stack once",
+    "Pop-up messages fit the glass"
+  ]
+}
