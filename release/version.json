@@ -1,0 +1,13 @@
+{
+  "version": "2.9.1",
+  "version_code": 20901,
+  "size": 2353392,
+  "sha256": "c2f56c5cfe1908975faef43656013b4f9c1bf17ec98f5d1164a84a8ac909a42b",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.1.bin",
+  "notes": [
+    "Joining: the radio is started fresh and parked on the table's channel (6), and put back there after any WiFi use -- a join used to sit on 'looking' when the clock sync, an update check or the WiFi test had moved it",
+    "The join page says what it has heard: listening / host heard, waiting for a seat / no seat came back",
+    "PuTTY: [net] joining table, [net] seated at N, [net] channel X -> 6",
+    "2.9.0: HOST GAME / JOIN GAME rebuilt -- the host seats joiners, five seats, START on the host only, LIFELINK, OUT seats, the turn lens, KEY CARD decks"
+  ]
+}
