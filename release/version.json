@@ -1,0 +1,16 @@
+{
+  "version": "2.9.4",
+  "version_code": 20904,
+  "size": 2363136,
+  "sha256": "e6968a7f9e676ef22f2f5b2b1dacb0fb8b29438b166dbebc24ccf16b6b4b5234",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.4.bin",
+  "notes": [
+    "MUSIC: a turning record with a progress ring, title / artist / album from the MP3's tag, 1:23 / 3:45, TRACKS list, shuffle and repeat (off / all / one), hold play to stop; the knob's volume runs along the rim and fades; TEST is gone",
+    "ARCADE: on GAME OVER only AGAIN and QUIT do anything; in DASH the birds fly low -- duck them with the knob, jump the rocks",
+    "NEW GAME: BACK is a disc that stays inside the glass, OPEN TABLE no longer covers it, the join code sits clear of its title",
+    "FIRST: the roll lands and stays -- BEGIN: <name> starts the game; tap a name to pick it instead; the die rolls again",
+    "The face: no more swipe-up to the wheel (it fired under monarch and attack drags) -- swipe down, or press the knob",
+    "Battle screen: BACK disc beside RESOLVE instead of the X under it",
+    "Commander damage badges carry the initial of whose commander, in their colour; tap the badge for the name"
+  ]
+}
