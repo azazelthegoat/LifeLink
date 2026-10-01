@@ -1,0 +1,14 @@
+{
+  "version": "2.9.2",
+  "version_code": 20902,
+  "size": 2356976,
+  "sha256": "e19fc0cf992c8cc6d46ce7d447cd6377a5606e34e3f7e394f50d5d9f34d173d5",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.2.bin",
+  "notes": [
+    "The radios, sorted out: a WiFi join (clock sync at boot, update check, art, FILES, the WiFi test, the hotspot) used to tear the table link down underneath itself -- it now borrows the radio and hands it back",
+    "HOST / JOIN start the radio from scratch, check every step, and the lobby shows the radio line: channel, frames in and out, or why it did not start (tap to retry)",
+    "Bluetooth: a stack left half-down by a failed shutdown is reset before starting; low RAM moves the screen band aside; 'bluetooth would not start' now says how much memory was free",
+    "After a hosted game, RECORD ROUND and NEW GAME take every device back to the table lobby with the seats kept",
+    "Music: names up to 95 characters, skipped files are counted and said, and 'unplug the USB cable' when the PC still holds the drive"
+  ]
+}
