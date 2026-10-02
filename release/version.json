@@ -1,14 +1,14 @@
 {
-  "version": "2.9.13",
-  "version_code": 20913,
-  "size": 2446672,
-  "sha256": "590635694f542998eef16abe62307d040513f17b3192018501c1bfe0b6e20c51",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.13.bin",
+  "version": "2.9.14",
+  "version_code": 20914,
+  "size": 2446816,
+  "sha256": "23815aeeb09d36193abb5418dc1cfc3679af922872ff2882da3f9403b8d8c451",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.14.bin",
   "notes": [
-    "GIANT: up to four Crystalline Giants -- numbered discs under the title, + adds one, hold a disc to send it away, the knob walks them",
-    "GIANT: ALL shows every giant on the pills (a dot per giant) and COMBAT: ALL rolls for all of them at once, each its own pick",
-    "D&D face: weapon wheel from the lens, sword button to attack; attack waits for ROLL; ADV / DIS toggle",
-    "Home: the Magic / D&D pill higher; into Magic lands on a one-player 20-life face",
-    "D&D sheet: any weapon or armour, with what you are not trained in called out"
+    "Game Boy: the chip stays at full speed while a game runs (it used to drop to a third four seconds after the last touch)",
+    "Game Boy: big ROMs keep their two live banks in fast internal RAM instead of fetching every byte from PSRAM",
+    "GIANT: up to four Crystalline Giants, ALL rolls for every one at once",
+    "D&D: weapon wheel, press-to-roll attack, ADV / DIS toggle, home switch ring, proficiency on the sheet",
+    "D&D party: the DM hosts, players join; DM damage / heal / area; players heal each other"
   ]
 }
