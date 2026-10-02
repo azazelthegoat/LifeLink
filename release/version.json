@@ -1,0 +1,14 @@
+{
+  "version": "2.9.12",
+  "version_code": 20912,
+  "size": 2444400,
+  "sha256": "fd2cd354f9e11f524289370b30cf8e1daec7e1b5be05fa9d755bb052e63287fd",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.12.bin",
+  "notes": [
+    "D&D face: the lens opens a weapon wheel (name, to-hit, dice on each wedge); the sword button beside it attacks",
+    "D&D attack: press ROLL to roll (the knob click too); ADV / DIS sit under the weapon's name and toggle one or the other",
+    "Home: the Magic / D&D pill sits higher; tapping into Magic lands straight on a one-player 20-life face",
+    "D&D sheet: any weapon or armour can be picked -- the sheet shows what you are not trained in (no proficiency bonus; armour penalties)",
+    "D&D party: the DM hosts, players join; DM damage/heal/area; players heal each other"
+  ]
+}
