@@ -1,14 +1,14 @@
 {
-  "version": "2.9.15",
-  "version_code": 20915,
-  "size": 2451616,
-  "sha256": "61dae2364e86fd65e1a14659b666026df14f0e8eecc33056d37596799b27de12",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.15.bin",
+  "version": "2.9.17",
+  "version_code": 20917,
+  "size": 2475152,
+  "sha256": "87bc2a5116f2e0a515f02f3fa27a7d768ac46ba169e63496e02ad9a16cf92a8e",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.17.bin",
   "notes": [
-    "Game Boy: sound -- the four voices of the original (two squares, wave, noise) through the speaker",
-    "Game Boy: SOUND on the pause wheel gives the knob to the volume, with the media player's ring round the bezel",
-    "Game Boy: the chip stays at full speed while a game runs, and big ROMs keep their two live banks in fast internal RAM",
-    "GIANT: up to four Crystalline Giants, ALL rolls for every one at once",
-    "D&D: weapon wheel, press-to-roll attack, ADV / DIS toggle, home switch ring; the DM hosts a party, players join"
+    "Game Boy Color: .gbc games run in colour (the core is now Walnut-CGB; .gb games keep the four greens)",
+    "Game Boy: the machine's RAM sits in fast internal memory when there is room -- the log says where it landed",
+    "Game Boy: sound, and SOUND on the pause wheel for the volume (2.9.15)",
+    "Music: the player comes back after an update check; tap play wakes it if not (2.9.16)",
+    "Older Game Boy save states (.st1) are refused -- the new machine's layout differs; battery saves are fine"
   ]
 }
