@@ -1,14 +1,14 @@
 {
-  "version": "2.9.14",
-  "version_code": 20914,
-  "size": 2446816,
-  "sha256": "23815aeeb09d36193abb5418dc1cfc3679af922872ff2882da3f9403b8d8c451",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.14.bin",
+  "version": "2.9.15",
+  "version_code": 20915,
+  "size": 2451616,
+  "sha256": "61dae2364e86fd65e1a14659b666026df14f0e8eecc33056d37596799b27de12",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.15.bin",
   "notes": [
-    "Game Boy: the chip stays at full speed while a game runs (it used to drop to a third four seconds after the last touch)",
-    "Game Boy: big ROMs keep their two live banks in fast internal RAM instead of fetching every byte from PSRAM",
+    "Game Boy: sound -- the four voices of the original (two squares, wave, noise) through the speaker",
+    "Game Boy: SOUND on the pause wheel gives the knob to the volume, with the media player's ring round the bezel",
+    "Game Boy: the chip stays at full speed while a game runs, and big ROMs keep their two live banks in fast internal RAM",
     "GIANT: up to four Crystalline Giants, ALL rolls for every one at once",
-    "D&D: weapon wheel, press-to-roll attack, ADV / DIS toggle, home switch ring, proficiency on the sheet",
-    "D&D party: the DM hosts, players join; DM damage / heal / area; players heal each other"
+    "D&D: weapon wheel, press-to-roll attack, ADV / DIS toggle, home switch ring; the DM hosts a party, players join"
   ]
 }
