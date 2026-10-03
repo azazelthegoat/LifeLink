@@ -1,14 +1,14 @@
 {
-  "version": "2.9.17",
-  "version_code": 20917,
-  "size": 2475152,
-  "sha256": "87bc2a5116f2e0a515f02f3fa27a7d768ac46ba169e63496e02ad9a16cf92a8e",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.17.bin",
+  "version": "2.9.18",
+  "version_code": 20918,
+  "size": 2475440,
+  "sha256": "a1a0fb753eb8ad1ecd3d88f28f5eebe06a2529ad6221b83c3524ea927de59b49",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.18.bin",
   "notes": [
+    "Game Boy: ROMs with long file names (40 characters or more) were left off the list without a word -- most colour games have them; up to 95 now, and the list says if any still do not fit",
     "Game Boy Color: .gbc games run in colour (the core is now Walnut-CGB; .gb games keep the four greens)",
-    "Game Boy: the machine's RAM sits in fast internal memory when there is room -- the log says where it landed",
-    "Game Boy: sound, and SOUND on the pause wheel for the volume (2.9.15)",
-    "Music: the player comes back after an update check; tap play wakes it if not (2.9.16)",
+    "Game Boy: the machine's RAM sits in fast internal memory when there is room; sound, and SOUND on the pause wheel",
+    "Music: the player comes back after an update check; tap play wakes it if not",
     "Older Game Boy save states (.st1) are refused -- the new machine's layout differs; battery saves are fine"
   ]
 }
