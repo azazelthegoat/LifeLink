@@ -1,14 +1,14 @@
 {
-  "version": "2.9.20",
-  "version_code": 20920,
-  "size": 2478096,
-  "sha256": "cef018ddc73c16782f97b822bbf51e0dfc417a573f68e322702d7d4f6b0dd481",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.20.bin",
+  "version": "2.9.21",
+  "version_code": 20921,
+  "size": 2482048,
+  "sha256": "a69498ff67874c2b856efe487e6289d588e66700f05275e1070ec84c4a21bf4d",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.21.bin",
   "notes": [
-    "Printer: PULL BACK and FEED AFTER on the PRINTER page set the blank paper before and after a card on the PD01 family (both off to start -- the printer's own margins only)",
-    "Printer: the PD01 and its family (GB01, MX06, the 'Fun Print' / 'iPrint' printers) print cards over Bluetooth; DARKNESS works",
-    "Game Boy: ROMs with long file names now list; .gbc games run in colour (Walnut-CGB); sound, with SOUND on the pause wheel",
-    "Music: the player comes back after an update check; tap play wakes it if not",
-    "Older Game Boy save states (.st1) are refused -- the new machine's layout differs; battery saves are fine"
+    "Counters: THE STRIP -- the + on a counter's page puts it on the strip; PRINT STRIP on the list prints them stacked as one piece with a cut line between (up to eight; hold to clear)",
+    "Printer: SWITCH on the PRINTER page goes between the printers you have used (the last three) without a scan -- each keeps its own DARKNESS, LABELS, SPEAKS, PULL BACK and FEED AFTER",
+    "Printer: PULL BACK and FEED AFTER set the blank paper before and after a card on the PD01 family",
+    "Printer: the PD01 and its family (GB01, MX06, the 'Fun Print' / 'iPrint' printers) print cards over Bluetooth",
+    "Game Boy: .gbc games in colour, sound, long file names; Music: the player comes back after an update check"
   ]
 }
