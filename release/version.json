@@ -1,14 +1,14 @@
 {
-  "version": "2.9.22",
-  "version_code": 20922,
-  "size": 2482608,
-  "sha256": "cf8310ec1d43a75f0c7dac6cf1fef806f806a6a85f4c2adbd52a992a36282762",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.22.bin",
+  "version": "2.9.23",
+  "version_code": 20923,
+  "size": 2483104,
+  "sha256": "545e866be78900c042b1e3c95b5079d53f926b489b5e44cbf4180c44fba9a843",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.23.bin",
   "notes": [
-    "PRINTER and SETUP: tap or press a setting to light it, turn the knob to change it either way, tap or press again to keep it (rows that do something still do it at once)",
-    "Counters: THE STRIP -- the + on a counter's page puts it on the strip; PRINT STRIP on the list prints them stacked as one piece with a cut line between",
-    "Printer: SWITCH on the PRINTER page goes between the printers you have used without a scan -- each keeps its own settings",
-    "Printer: PULL BACK and FEED AFTER for the PD01 family's blank paper; the PD01 and its family print over Bluetooth",
+    "Printer: a receipt printer (the T02) that answers its writes is now paced by its answers, the way the M110 is; SPEAKS gains 'Receipt / slow' for one that drops rows anyway",
+    "PRINTER and SETUP: tap or press a setting to light it, turn the knob to change it, tap or press again to keep it",
+    "Counters: THE STRIP -- + on a counter's page, PRINT STRIP on the list prints them stacked as one piece",
+    "Printer: SWITCH goes between the printers you have used, each with its own settings; PULL BACK / FEED AFTER for the PD01 family",
     "Game Boy: .gbc games in colour, sound, long file names; Music: the player comes back after an update check"
   ]
 }
