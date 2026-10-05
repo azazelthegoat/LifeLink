@@ -1,12 +1,12 @@
 {
-  "version": "2.9.19",
-  "version_code": 20919,
-  "size": 2477744,
-  "sha256": "55fea13203702cec0e3cadd55707346706f462fa2c05615b42028db46b48f62f",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.19.bin",
+  "version": "2.9.20",
+  "version_code": 20920,
+  "size": 2478096,
+  "sha256": "cef018ddc73c16782f97b822bbf51e0dfc417a573f68e322702d7d4f6b0dd481",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.20.bin",
   "notes": [
-    "Printer: the PD01 and its family (GB01, MX06 and the other 'Fun Print' / 'iPrint' printers) print cards over Bluetooth -- pick it on the PRINTER page as before; DARKNESS still works",
-    "Printer: a printer we cannot drive now lists what it offers in the log, so the next one is quicker",
+    "Printer: PULL BACK and FEED AFTER on the PRINTER page set the blank paper before and after a card on the PD01 family (both off to start -- the printer's own margins only)",
+    "Printer: the PD01 and its family (GB01, MX06, the 'Fun Print' / 'iPrint' printers) print cards over Bluetooth; DARKNESS works",
     "Game Boy: ROMs with long file names now list; .gbc games run in colour (Walnut-CGB); sound, with SOUND on the pause wheel",
     "Music: the player comes back after an update check; tap play wakes it if not",
     "Older Game Boy save states (.st1) are refused -- the new machine's layout differs; battery saves are fine"
