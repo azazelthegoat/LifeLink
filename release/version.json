@@ -1,13 +1,13 @@
 {
-  "version": "2.9.18",
-  "version_code": 20918,
-  "size": 2475440,
-  "sha256": "a1a0fb753eb8ad1ecd3d88f28f5eebe06a2529ad6221b83c3524ea927de59b49",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.18.bin",
+  "version": "2.9.19",
+  "version_code": 20919,
+  "size": 2477744,
+  "sha256": "55fea13203702cec0e3cadd55707346706f462fa2c05615b42028db46b48f62f",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.19.bin",
   "notes": [
-    "Game Boy: ROMs with long file names (40 characters or more) were left off the list without a word -- most colour games have them; up to 95 now, and the list says if any still do not fit",
-    "Game Boy Color: .gbc games run in colour (the core is now Walnut-CGB; .gb games keep the four greens)",
-    "Game Boy: the machine's RAM sits in fast internal memory when there is room; sound, and SOUND on the pause wheel",
+    "Printer: the PD01 and its family (GB01, MX06 and the other 'Fun Print' / 'iPrint' printers) print cards over Bluetooth -- pick it on the PRINTER page as before; DARKNESS still works",
+    "Printer: a printer we cannot drive now lists what it offers in the log, so the next one is quicker",
+    "Game Boy: ROMs with long file names now list; .gbc games run in colour (Walnut-CGB); sound, with SOUND on the pause wheel",
     "Music: the player comes back after an update check; tap play wakes it if not",
     "Older Game Boy save states (.st1) are refused -- the new machine's layout differs; battery saves are fine"
   ]
