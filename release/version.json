@@ -1,14 +1,14 @@
 {
-  "version": "2.9.33",
-  "version_code": 20933,
-  "size": 2494672,
-  "sha256": "a0464680bc572c731e82f812d024ec8cb7f00e4937a38ebe7713aaeff1dc0693",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.33.bin",
+  "version": "2.9.34",
+  "version_code": 20934,
+  "size": 2854272,
+  "sha256": "77ace91c22431c3d804a88c7f6f408080fbb03cef45ede03aeb93c97626e89ac",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.34.bin",
   "notes": [
-    "The face: the turn number rides the TURN chip over START TURN at the foot, solo as at a table; the top lens is gone",
-    "Quick Start: FULL or LTD (the ringed BASIC face is gone); the partner is a (+) until you add one; the deck has a row of its own",
-    "Ten poison counters is a loss: the KO prompt asks, NO plays on (Solemnity and friends)",
-    "GAME > HOW TO PLAY: the eight steps of a turn round the right rim, each explained",
-    "Seat setup and the colour wheel use the (<) and [NEXT] footer; the shared face's knob starts on whoever's turn it is; 'what game' is asked once per boot"
+    "What game are we playing? is a wheel of eight: Magic and D&D on top, Yu-Gi-Oh, Lorcana, Riftbound, Pokemon TCG, Flesh and Blood and Altered round it -- at boot, from the chip above START, from SYSTEM > GAME",
+    "The other games are life counters with their own numbers: Yu-Gi-Oh 8000 LP by 50, Lorcana first to 20 lore, Riftbound first to 8, Pokemon 6 prizes, Flesh and Blood 40 or 20, Altered first to 7",
+    "SETUP > Font: Beleren, Lemon Milk, Arena or Norway for the names, titles and numerals (Arena and Norway borrow numerals)",
+    "A (?) at the top of the Magic face opens HOW TO PLAY; SETUP > Help on face hides it",
+    "Quick Start: LTD is called BASIC; the partner (+) asks NEW NAME or LIST"
   ]
 }
