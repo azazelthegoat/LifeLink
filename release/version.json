@@ -1,11 +1,11 @@
 {
-  "version": "2.9.35",
-  "version_code": 20935,
-  "size": 2853696,
-  "sha256": "1320f9ff2e7ddac23f398630e729b15b51f14c8a63fb1063c25acaa6f0b62f2b",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.35.bin",
+  "version": "2.9.36",
+  "version_code": 20936,
+  "size": 2858144,
+  "sha256": "d731a8290cb6d74d1baaaf18c45384c0b883f8a5c954107f992c493a855b79e6",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.36.bin",
   "notes": [
-    "Home: the game chip sits below JOIN and HOST",
-    "The (?) on the face: the mark centred in its disc"
+    "Glass: the wheels, the home's discs, the gear and the game chip are drawn as lenses -- gradient plates, a bevel of light, a specular crescent, embossed icons",
+    "SETUP > Look: Glass or Flat (the plates as they were)"
   ]
 }
