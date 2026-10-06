@@ -1,11 +1,10 @@
 {
-  "version": "2.9.31",
-  "version_code": 20931,
-  "size": 2490544,
-  "sha256": "386d0c293322d935aa8555b7232df10a6e40abb357934861db946f443baf740d",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.31.bin",
+  "version": "2.9.32",
+  "version_code": 20932,
+  "size": 2490624,
+  "sha256": "218b53723569a955de086ed6e5ad2985a605fa169544d500a0921b346bf3f61e",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.32.bin",
   "notes": [
-    "Serial log: lines longer than one USB packet (64 bytes) were silently dropped since 2.9.24; they are written in pieces now",
-    "Game Boy: the 3-second log line says how long the machine takes per frame, drawn and skipped"
+    "Game Boy: the log line counts bank-cache refills (a 2 MB game that switches banks all the time pays 16 KB of PSRAM copy each time)"
   ]
 }
