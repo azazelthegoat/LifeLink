@@ -1,14 +1,14 @@
 {
-  "version": "2.9.27",
-  "version_code": 20927,
-  "size": 2488128,
-  "sha256": "20b170b764fd06d60941fe017c8e5cae50b3394781200a38ded333ddd358f339",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.27.bin",
+  "version": "2.9.28",
+  "version_code": 20928,
+  "size": 2490224,
+  "sha256": "b77f76fe889852f0e45dd33df5587b42c8dfcebe45df77c44a9ace65ec4a34ec",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.28.bin",
   "notes": [
-    "Music: the cover sits at the top, the title and artist under it over the bar; a long title scrolls; the buttons' icons are centred; VOL and SEEK moved under SHUFFLE and REPEAT, off the bar",
-    "Music: an equaliser -- the sliders disc at the bottom right; bass, mid and treble, -12 to +12 dB, the knob on the lit one, [v] flat; applies to everything the speaker plays",
-    "The D&D wheel has Magic's shape: ATTACK and CHARACTER, then EXTRAS, PRINT, DISPLAY and SYSTEM as in Magic",
-    "Home asks 'What game are we playing?'; SYSTEM > GAME swaps games; SETUP > Menu taps: 'Highlight first'; PRINTER > SWITCH is a saved-connection list",
-    "Printer: a receipt printer that drops the link mid-card is waited for and the job goes on from the cut band"
+    "Game Boy: the machine now runs on the second core, paced to real time, so games play at full speed with steady sound",
+    "Game Boy: the glass shows the newest picture at its own pace; the pause hub says both fps and pictures shown",
+    "Game Boy: only the picture's rows go to the panel each frame, so more of them get there",
+    "Game Boy: a log line every 3 s with fps, pictures shown and frames skipped",
+    "Any screen can now limit which rows are sent to the panel (pushRows)"
   ]
 }
