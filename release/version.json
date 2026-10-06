@@ -1,14 +1,13 @@
 {
-  "version": "2.9.28",
-  "version_code": 20928,
-  "size": 2490224,
-  "sha256": "b77f76fe889852f0e45dd33df5587b42c8dfcebe45df77c44a9ace65ec4a34ec",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.28.bin",
+  "version": "2.9.29",
+  "version_code": 20929,
+  "size": 2490608,
+  "sha256": "df3bfbf9522998c0e7ff188f23c427ad7bc90f0dc1d236b79bd2d7c9bcb54609",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.29.bin",
   "notes": [
-    "Game Boy: the machine now runs on the second core, paced to real time, so games play at full speed with steady sound",
-    "Game Boy: the glass shows the newest picture at its own pace; the pause hub says both fps and pictures shown",
-    "Game Boy: only the picture's rows go to the panel each frame, so more of them get there",
-    "Game Boy: a log line every 3 s with fps, pictures shown and frames skipped",
-    "Any screen can now limit which rows are sent to the panel (pushRows)"
+    "Game Boy: the machine is kept in internal RAM -- when no piece is big enough the screen band moves out to PSRAM for the game, and back on quit (it had gone to PSRAM, where it crawls)",
+    "Game Boy: the three pictures (drawing, ready, shown) live in PSRAM and change hands by pointer, no copies",
+    "Game Boy: fps and pictures-a-second are measured over the real window; a loop held up over 250 ms is logged",
+    "Game Boy: the load log line says where the machine, the bank cache and the pictures landed"
   ]
 }
