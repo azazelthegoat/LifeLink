@@ -1,14 +1,14 @@
 {
-  "version": "2.9.26",
-  "version_code": 20926,
-  "size": 2485040,
-  "sha256": "c710800ecacb4e444f63d3b960137d40e61e202d8022fe642eef5d4fd6611d53",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.26.bin",
+  "version": "2.9.27",
+  "version_code": 20927,
+  "size": 2488128,
+  "sha256": "20b170b764fd06d60941fe017c8e5cae50b3394781200a38ded333ddd358f339",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.27.bin",
   "notes": [
-    "The D&D wheel has Magic's shape: ATTACK and CHARACTER (spells, items, rest, status, dice, sheet, party) are its own two wedges; EXTRAS, PRINT, DISPLAY and SYSTEM are the same four wheels in the same places as in Magic",
-    "D&D's PRINT gains COUNTERS and PRINTER; the OPTIONS door to the Magic wheel is gone -- nothing is behind it any more",
-    "Home asks 'What game are we playing?'; SYSTEM > GAME swaps games from either wheel; SETUP > Menu taps: 'Highlight first'",
-    "PRINTER > SWITCH lit: the knob walks the printers you have used, press connects -- a saved connection, no scan",
+    "Music: the cover sits at the top, the title and artist under it over the bar; a long title scrolls; the buttons' icons are centred; VOL and SEEK moved under SHUFFLE and REPEAT, off the bar",
+    "Music: an equaliser -- the sliders disc at the bottom right; bass, mid and treble, -12 to +12 dB, the knob on the lit one, [v] flat; applies to everything the speaker plays",
+    "The D&D wheel has Magic's shape: ATTACK and CHARACTER, then EXTRAS, PRINT, DISPLAY and SYSTEM as in Magic",
+    "Home asks 'What game are we playing?'; SYSTEM > GAME swaps games; SETUP > Menu taps: 'Highlight first'; PRINTER > SWITCH is a saved-connection list",
     "Printer: a receipt printer that drops the link mid-card is waited for and the job goes on from the cut band"
   ]
 }
