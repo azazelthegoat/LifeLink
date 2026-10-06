@@ -1,10 +1,14 @@
 {
-  "version": "2.9.32",
-  "version_code": 20932,
-  "size": 2490624,
-  "sha256": "218b53723569a955de086ed6e5ad2985a605fa169544d500a0921b346bf3f61e",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.32.bin",
+  "version": "2.9.33",
+  "version_code": 20933,
+  "size": 2494672,
+  "sha256": "a0464680bc572c731e82f812d024ec8cb7f00e4937a38ebe7713aaeff1dc0693",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.33.bin",
   "notes": [
-    "Game Boy: the log line counts bank-cache refills (a 2 MB game that switches banks all the time pays 16 KB of PSRAM copy each time)"
+    "The face: the turn number rides the TURN chip over START TURN at the foot, solo as at a table; the top lens is gone",
+    "Quick Start: FULL or LTD (the ringed BASIC face is gone); the partner is a (+) until you add one; the deck has a row of its own",
+    "Ten poison counters is a loss: the KO prompt asks, NO plays on (Solemnity and friends)",
+    "GAME > HOW TO PLAY: the eight steps of a turn round the right rim, each explained",
+    "Seat setup and the colour wheel use the (<) and [NEXT] footer; the shared face's knob starts on whoever's turn it is; 'what game' is asked once per boot"
   ]
 }
