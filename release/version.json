@@ -1,10 +1,11 @@
 {
-  "version": "2.9.30",
-  "version_code": 20930,
-  "size": 2490448,
-  "sha256": "28728630b85415061bf465acbdb20770b662417c09522e6e5bcc6767f1a0cbd4",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.30.bin",
+  "version": "2.9.31",
+  "version_code": 20931,
+  "size": 2490544,
+  "sha256": "386d0c293322d935aa8555b7232df10a6e40abb357934861db946f443baf740d",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.31.bin",
   "notes": [
-    "Game Boy: the 3-second log line now says how long the machine takes per frame, drawn and skipped -- the number that settles whether the chip is the limit"
+    "Serial log: lines longer than one USB packet (64 bytes) were silently dropped since 2.9.24; they are written in pieces now",
+    "Game Boy: the 3-second log line says how long the machine takes per frame, drawn and skipped"
   ]
 }
