@@ -1,11 +1,10 @@
 {
-  "version": "2.9.36",
-  "version_code": 20936,
-  "size": 2858144,
-  "sha256": "d731a8290cb6d74d1baaaf18c45384c0b883f8a5c954107f992c493a855b79e6",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.36.bin",
+  "version": "2.9.37",
+  "version_code": 20937,
+  "size": 2858784,
+  "sha256": "cbd64748598beef587aaf4e4b0bb148d0ffc5426ab8ba606d4ee1f6ab4ac4897",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.37.bin",
   "notes": [
-    "Glass: the wheels, the home's discs, the gear and the game chip are drawn as lenses -- gradient plates, a bevel of light, a specular crescent, embossed icons",
-    "SETUP > Look: Glass or Flat (the plates as they were)"
+    "Glass: the wheel's plates, hub, icons and labels are drawn once into memory per menu; a detent redraws only the lit wedge and the hub's words"
   ]
 }
