@@ -1,14 +1,11 @@
 {
-  "version": "2.9.34",
-  "version_code": 20934,
-  "size": 2854272,
-  "sha256": "77ace91c22431c3d804a88c7f6f408080fbb03cef45ede03aeb93c97626e89ac",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.34.bin",
+  "version": "2.9.35",
+  "version_code": 20935,
+  "size": 2853696,
+  "sha256": "1320f9ff2e7ddac23f398630e729b15b51f14c8a63fb1063c25acaa6f0b62f2b",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.35.bin",
   "notes": [
-    "What game are we playing? is a wheel of eight: Magic and D&D on top, Yu-Gi-Oh, Lorcana, Riftbound, Pokemon TCG, Flesh and Blood and Altered round it -- at boot, from the chip above START, from SYSTEM > GAME",
-    "The other games are life counters with their own numbers: Yu-Gi-Oh 8000 LP by 50, Lorcana first to 20 lore, Riftbound first to 8, Pokemon 6 prizes, Flesh and Blood 40 or 20, Altered first to 7",
-    "SETUP > Font: Beleren, Lemon Milk, Arena or Norway for the names, titles and numerals (Arena and Norway borrow numerals)",
-    "A (?) at the top of the Magic face opens HOW TO PLAY; SETUP > Help on face hides it",
-    "Quick Start: LTD is called BASIC; the partner (+) asks NEW NAME or LIST"
+    "Home: the game chip sits below JOIN and HOST",
+    "The (?) on the face: the mark centred in its disc"
   ]
 }
