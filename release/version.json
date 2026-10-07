@@ -1,11 +1,11 @@
 {
-  "version": "2.9.42",
-  "version_code": 20942,
-  "size": 2874880,
-  "sha256": "6dab3f443f1f7ad66793b479b82a895eba371c73abe7f66acce2ce657db9681f",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.42.bin",
+  "version": "2.9.43",
+  "version_code": 20943,
+  "size": 2875872,
+  "sha256": "e215cb4979f468d936ebdf7199ba6604c5b98f539a91832d36ec0dd1c80bcda3",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.43.bin",
   "notes": [
-    "Home: START GAME in the middle, HOST and JOIN tucked behind it left and right, the gear above",
-    "Boot: the AM Labs logo at the size of the LIFE LINK card"
+    "Music: a song's length no longer wanders while it plays (VBR files without a header) -- the clock and the bar hold steady",
+    "Update screen: the version, the notes as a list, and UPDATE NOW, each in its own place"
   ]
 }
