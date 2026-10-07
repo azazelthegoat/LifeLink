@@ -1,11 +1,10 @@
 {
-  "version": "2.9.44",
-  "version_code": 20944,
-  "size": 2876112,
-  "sha256": "a0db7e3da19b532dfff1be36ca440f8fda45bfa73f0e38c97c7cdd5a77d13348",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.44.bin",
+  "version": "2.9.45",
+  "version_code": 20945,
+  "size": 2876608,
+  "sha256": "dd746de7605d4a475cfc105359b2233ffd0487ddfced09ecd70c904957f448e2",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.45.bin",
   "notes": [
-    "BASIC face: the life number a little bigger",
-    "Home: HOST and JOIN sit in closer behind START GAME"
+    "Life total: one size for every two-digit number -- it no longer jumps between sizes as the digits change; only a third digit shrinks it"
   ]
 }
