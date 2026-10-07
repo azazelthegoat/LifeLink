@@ -1,11 +1,11 @@
 {
-  "version": "2.9.41",
-  "version_code": 20941,
-  "size": 2874976,
-  "sha256": "13ac4d6394a8e20297214372b88e827837adc9e995ac323890f69933a9b9c293",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.41.bin",
+  "version": "2.9.42",
+  "version_code": 20942,
+  "size": 2874880,
+  "sha256": "6dab3f443f1f7ad66793b479b82a895eba371c73abe7f66acce2ce657db9681f",
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.42.bin",
   "notes": [
-    "Pokemon: (+) > DECK picks from a deck on the card (make_pokemon.py --deck, or the card maker's DECKS tab); hold DECK to change decks; EVOLVE looks in the deck first",
-    "Switching games: the toast says just the game"
+    "Home: START GAME in the middle, HOST and JOIN tucked behind it left and right, the gear above",
+    "Boot: the AM Labs logo at the size of the LIFE LINK card"
   ]
 }
