@@ -1,17 +1,13 @@
 {
-  "version": "2.9.46",
-  "version_code": 20946,
-  "size": 2889712,
-  "sha256": "b6864db8c7ee63c8211135746ca54a852a133a3397786a6b9458a9eafe30b65f",
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.46.bin",
+  "version": "2.9.48",
+  "version_code": 20948,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.48.bin",
+  "size": 2894656,
+  "sha256": "57bd2cb8613430baeb1fec5d4140f75c0f158886d10a9aa51d54652877c9ea20",
   "notes": [
-    "A first-boot tour: the knob, the wheel, the quick pane, your name",
-    "GAME > HOW TO PLAY: the pills fit their words; an ADVANCED RULES chapter -- the stack, priority, layers, token doubling, combat, mulligan, Commander",
-    "ADD-ONS > TOKEN MATH: doublers, triplers and Chatterfang, how many tokens you make",
-    "DISPLAY > FONT and SYSTEM > QUICK are wedges on the wheel now",
-    "Toasts fade and go on their own; the game-switch toast is just the game",
-    "LEADER BOARD reads whole; the music player shows the battery",
-    "Sounds: fanfare.wav on a win, poison.wav on infect, mortal.wav on a knock-out",
-    "The card page offers REAL / COPY when the card maker fetched the real card too (its REAL option; Momir too)"
+    "GIANT: PRINT now asks -- the counter it just got, or ALL of its counters as one print",
+    "GIANT: after COMBAT: ALL, each giant keeps its new counter -- tap giant 1-4 and PRINT asks for that one",
+    "GIANT: PRINT is there whenever the giant has counters",
+    "Infinite life: the sign redrawn as one outlined ribbon, kept between the - and + buttons"
   ]
 }
