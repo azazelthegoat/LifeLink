@@ -1,11 +1,13 @@
 {
-  "version": "2.9.50",
-  "version_code": 20950,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.50.bin",
-  "size": 2897344,
-  "sha256": "d2a28fb726302baabef97d04f779635185bd6ea03db00c86d923a24ced18a23a",
+  "version": "2.9.51",
+  "version_code": 20951,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.51.bin",
+  "size": 2900176,
+  "sha256": "ba0dee404a2b1807be218918e1e55c6eda5461aed01022088ad3822c86813926",
   "notes": [
-    "Painted wheels: /skins/wheel-N.png + wheel-N-lit.png on the card (make_skin.py) dress every wheel of N wedges in your own art, tinted by the guild; the selected wedge is cut from the lit file",
-    "The hub lens, icons and names still draw on top; wheels without a pair keep the glass plates"
+    "DISPLAY > SKIN: swap between painted sets -- DRAWN, DEFAULT (/skins) and each /skins/<name> folder",
+    "The home screen takes a skin too: home.png + home-lit.png paint the bubbles; the words stay the device's",
+    "MANA: STORM the same size as the others, - and + beside it, the reminder behind a (?)",
+    "Wheel labels that just miss close up their letters and may run into the gaps (ATTRACTIONS reads whole)"
   ]
 }
