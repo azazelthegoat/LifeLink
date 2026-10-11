@@ -1,13 +1,11 @@
 {
-  "version": "2.9.48",
-  "version_code": 20948,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.48.bin",
-  "size": 2894656,
-  "sha256": "57bd2cb8613430baeb1fec5d4140f75c0f158886d10a9aa51d54652877c9ea20",
+  "version": "2.9.50",
+  "version_code": 20950,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.50.bin",
+  "size": 2897344,
+  "sha256": "d2a28fb726302baabef97d04f779635185bd6ea03db00c86d923a24ced18a23a",
   "notes": [
-    "GIANT: PRINT now asks -- the counter it just got, or ALL of its counters as one print",
-    "GIANT: after COMBAT: ALL, each giant keeps its new counter -- tap giant 1-4 and PRINT asks for that one",
-    "GIANT: PRINT is there whenever the giant has counters",
-    "Infinite life: the sign redrawn as one outlined ribbon, kept between the - and + buttons"
+    "Painted wheels: /skins/wheel-N.png + wheel-N-lit.png on the card (make_skin.py) dress every wheel of N wedges in your own art, tinted by the guild; the selected wedge is cut from the lit file",
+    "The hub lens, icons and names still draw on top; wheels without a pair keep the glass plates"
   ]
 }
