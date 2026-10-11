@@ -1,13 +1,11 @@
 {
-  "version": "2.9.51",
-  "version_code": 20951,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.51.bin",
-  "size": 2900176,
-  "sha256": "ba0dee404a2b1807be218918e1e55c6eda5461aed01022088ad3822c86813926",
+  "version": "2.9.52",
+  "version_code": 20952,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.52.bin",
+  "size": 2900016,
+  "sha256": "bf090838939017b7e07d41de7c4acc5d4c68748dc3fe81a7b9b0061e5f861e9f",
   "notes": [
-    "DISPLAY > SKIN: swap between painted sets -- DRAWN, DEFAULT (/skins) and each /skins/<name> folder",
-    "The home screen takes a skin too: home.png + home-lit.png paint the bubbles; the words stay the device's",
-    "MANA: STORM the same size as the others, - and + beside it, the reminder behind a (?)",
-    "Wheel labels that just miss close up their letters and may run into the gaps (ATTRACTIONS reads whole)"
+    "Hosted game: the active player's turn clock now runs on every device's rim panel, not only their own",
+    "Turn messages carry whether the clock is running and how far along it is; a late joiner syncs on the host's next turn message"
   ]
 }
