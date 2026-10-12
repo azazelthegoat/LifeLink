@@ -1,17 +1,12 @@
 {
-  "version": "2.9.53",
-  "version_code": 20953,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.53.bin",
-  "size": 2921440,
-  "sha256": "6ebd112f739007e17d8824d8689cc2e4c25645f358571a7786ab24ed13e07235",
+  "version": "2.9.55",
+  "version_code": 20955,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.55.bin",
+  "size": 2921328,
+  "sha256": "f9f3e5c10904a9ad732e401bb1977cba0cb871cdad774fc0e495e394c4ce08bf",
   "notes": [
-    "Hosted table: six seats, and the host taps the names to number the turn order",
-    "EMPEROR, a 3v3 table mode: pawns and emperors seated by that order, with the attack rule",
-    "UNDO END TURN at the top of the game menu (hold the turn chip) takes back a turn passed by mistake",
-    "Each device picks FULL or BASIC for a table; BASIC keeps the turn chip at the foot",
-    "RESULTS names the winner and plays the fanfare on their device; the LED ring runs full on your turn, a quarter on others'",
-    "HOW TO PLAY has a chapter for every game on the wheel, and the (?) opens it",
-    "ARCADE: Bricks -- breakout on the round glass, a new wall every level, powerups, three lives",
-    "Quieter steppers, a turn label that fits, smaller rim clocks, toasts gone in two seconds, Game on! two seconds, a guild tap applies and closes, no low-life blink in a race"
+    "Bricks: the arena is a square inside the glass -- three walls, the foot open -- so the paddle is the only way back up",
+    "BASIC at a table: the sword under the (-) and the counters' (+) under the (+), tucked in; the turn pill and TURN chip at the very foot",
+    "BASIC at a table: the life change shows under the number, and the (?) and the clock keep the top"
   ]
 }
