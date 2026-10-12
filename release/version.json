@@ -1,12 +1,10 @@
 {
-  "version": "2.9.55",
-  "version_code": 20955,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.55.bin",
-  "size": 2921328,
-  "sha256": "f9f3e5c10904a9ad732e401bb1977cba0cb871cdad774fc0e495e394c4ce08bf",
+  "version": "2.9.57",
+  "version_code": 20957,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.57.bin",
+  "size": 2923232,
+  "sha256": "ebac65ca035ac5a112095c8ff510c4fcb6e133dee56768b5d6ee0a28ed55d119",
   "notes": [
-    "Bricks: the arena is a square inside the glass -- three walls, the foot open -- so the paddle is the only way back up",
-    "BASIC at a table: the sword under the (-) and the counters' (+) under the (+), tucked in; the turn pill and TURN chip at the very foot",
-    "BASIC at a table: the life change shows under the number, and the (?) and the clock keep the top"
+    "A new device, or one after a factory reset, starts on the Colorless theme (DISPLAY > GUILD picks another)"
   ]
 }
