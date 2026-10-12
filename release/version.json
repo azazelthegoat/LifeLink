@@ -1,11 +1,17 @@
 {
-  "version": "2.9.52",
-  "version_code": 20952,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.52.bin",
-  "size": 2900016,
-  "sha256": "bf090838939017b7e07d41de7c4acc5d4c68748dc3fe81a7b9b0061e5f861e9f",
+  "version": "2.9.53",
+  "version_code": 20953,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.53.bin",
+  "size": 2921440,
+  "sha256": "6ebd112f739007e17d8824d8689cc2e4c25645f358571a7786ab24ed13e07235",
   "notes": [
-    "Hosted game: the active player's turn clock now runs on every device's rim panel, not only their own",
-    "Turn messages carry whether the clock is running and how far along it is; a late joiner syncs on the host's next turn message"
+    "Hosted table: six seats, and the host taps the names to number the turn order",
+    "EMPEROR, a 3v3 table mode: pawns and emperors seated by that order, with the attack rule",
+    "UNDO END TURN at the top of the game menu (hold the turn chip) takes back a turn passed by mistake",
+    "Each device picks FULL or BASIC for a table; BASIC keeps the turn chip at the foot",
+    "RESULTS names the winner and plays the fanfare on their device; the LED ring runs full on your turn, a quarter on others'",
+    "HOW TO PLAY has a chapter for every game on the wheel, and the (?) opens it",
+    "ARCADE: Bricks -- breakout on the round glass, a new wall every level, powerups, three lives",
+    "Quieter steppers, a turn label that fits, smaller rim clocks, toasts gone in two seconds, Game on! two seconds, a guild tap applies and closes, no low-life blink in a race"
   ]
 }
