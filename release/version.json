@@ -1,12 +1,14 @@
 {
-  "version": "2.9.61",
-  "version_code": 20961,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.61.bin",
-  "size": 2930000,
-  "sha256": "643d8da0b28a81cc504c3aebcdddb49315c52fb9aafd11c6a7efba7861661ad1",
+  "version": "2.9.62",
+  "version_code": 20962,
+  "sha256": "989e98a75de189f804406534a10bd1e23bb527ca8a4899f63f0910b62bf89f54",
+  "size": 2930608,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.62.bin",
   "notes": [
-    "Sounds: hold a .wav under EXTRAS > SFX to make it this device's CRITICAL HIT, POISON, KNOCKOUT or FANFARE; an unbound event plays its default file, or any .wav whose name begins with its word (fanfare8.wav counts)",
-    "A hit's sound plays on the device that takes it -- the knockout on the one knocked out, poison on the one poisoned, the crit on the one hit -- not on the attacker's",
-    "The fanfare, the crit, the poison and the knockout all go through the same bindings"
+    "Teams: devices that join a table now take TEAMS from the host, so pairs share one view and their life stays in step (joiners were treating everyone as singles)",
+    "Teams: the lobby title on every device says which team it is on (ALEX - TEAM B)",
+    "Who goes first lists each team once, both names on the row with its letter; BEGIN says TEAM A",
+    "Who goes first with five or six singles goes two abreast so the list clears BEGIN",
+    "Lobby teams hints shortened so they fit the circle"
   ]
 }
