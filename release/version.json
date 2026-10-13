@@ -1,10 +1,12 @@
 {
-  "version": "2.9.57",
-  "version_code": 20957,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.57.bin",
-  "size": 2923232,
-  "sha256": "ebac65ca035ac5a112095c8ff510c4fcb6e133dee56768b5d6ee0a28ed55d119",
+  "version": "2.9.58",
+  "version_code": 20958,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.58.bin",
+  "size": 2923504,
+  "sha256": "0392b4eef1853c8b6c2e5a6c7750a38c869031faef9946ee173c14bf4433a52a",
   "notes": [
-    "A new device, or one after a factory reset, starts on the Colorless theme (DISPLAY > GUILD picks another)"
+    "Home: START GAME up top, HOST and JOIN below it with the gear between them, the game chip at the foot -- the layout of Alex's painted home skin",
+    "Home: the battery and the clock on the strip above START",
+    "home.png / home-lit.png skins fit this layout (the template is updated to match)"
   ]
 }
