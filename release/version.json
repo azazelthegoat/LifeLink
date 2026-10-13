@@ -1,11 +1,12 @@
 {
-  "version": "2.9.60",
-  "version_code": 20960,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.60.bin",
-  "size": 2926720,
-  "sha256": "ea73618bcc601c2b5e451c95554ba15d4ef437f66f91cedfe25eddd195765bc0",
+  "version": "2.9.61",
+  "version_code": 20961,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.61.bin",
+  "size": 2930000,
+  "sha256": "643d8da0b28a81cc504c3aebcdddb49315c52fb9aafd11c6a7efba7861661ad1",
   "notes": [
-    "Sounds: a long WAV (the fanfare) no longer needs two copies of itself in memory to load, so it is not dropped when the glass caches and art are resident",
-    "RESULTS wakes the player if the update check had left it down, and the serial log says whether this device plays the fanfare and why not"
+    "Sounds: hold a .wav under EXTRAS > SFX to make it this device's CRITICAL HIT, POISON, KNOCKOUT or FANFARE; an unbound event plays its default file, or any .wav whose name begins with its word (fanfare8.wav counts)",
+    "A hit's sound plays on the device that takes it -- the knockout on the one knocked out, poison on the one poisoned, the crit on the one hit -- not on the attacker's",
+    "The fanfare, the crit, the poison and the knockout all go through the same bindings"
   ]
 }
