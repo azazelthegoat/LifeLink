@@ -1,14 +1,16 @@
 {
-  "version": "2.9.62",
-  "version_code": 20962,
-  "sha256": "989e98a75de189f804406534a10bd1e23bb527ca8a4899f63f0910b62bf89f54",
-  "size": 2930608,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.62.bin",
+  "version": "2.9.63",
+  "version_code": 20963,
+  "sha256": "4dbb89980bb6b92a5cb719b2b47cec61a712558f43dc45349267a7d40dba7f62",
+  "size": 2931264,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.63.bin",
   "notes": [
-    "Teams: devices that join a table now take TEAMS from the host, so pairs share one view and their life stays in step (joiners were treating everyone as singles)",
-    "Teams: the lobby title on every device says which team it is on (ALEX - TEAM B)",
-    "Who goes first lists each team once, both names on the row with its letter; BEGIN says TEAM A",
-    "Who goes first with five or six singles goes two abreast so the list clears BEGIN",
-    "Lobby teams hints shortened so they fit the circle"
+    "Teams: both of a pair show their team's number on the lobby dot (1, 2, 3), since a pair takes one turn",
+    "Teams: the host's knob moves a tapped name from team to team, trading places so every team stays a pair",
+    "Teams: devices that join a table take TEAMS from the host, so pairs share one view and life (2.9.62)",
+    "Teams: every device's lobby title says its team; who goes first lists each team once, BEGIN says TEAM A (2.9.62)",
+    "Who goes first with five or six singles goes two abreast so the list clears BEGIN (2.9.62)",
+    "The fanfare plays once per game, however many times RESULTS opens or the round is recorded",
+    "Sounds load in 4 KB reads again (2.9.60 read a long fanfare one frame at a time, seconds of it)"
   ]
 }
