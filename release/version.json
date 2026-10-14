@@ -1,15 +1,15 @@
 {
-  "version": "2.9.67",
-  "version_code": 20967,
-  "sha256": "fa421b0d34b893cb144b36ce7f31e054a7adb9f4bc69576ad018278bfffcab71",
-  "size": 2958528,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.67.bin",
+  "version": "2.9.68",
+  "version_code": 20968,
+  "sha256": "b932322dd36a23980657fe17cad922fccaaacb82957561996c573b1142405579",
+  "size": 2963088,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.68.bin",
   "notes": [
-    "EMOTES: a smiley low on the left of the table face -- pick who (everyone, or a seat; whose turn it is starts selected) and a word: Hurry up!, GG, Nice!, Does it resolve??",
-    "A word lands on their device as a gold toast with your name, a double pulse of the ring, and the EMOTE sound if one is on the card (bind one under EXTRAS > SFX)",
-    "WATCH: on the join code pad, WATCH joins the table with no seat and shows it whole -- one tile per player, the turn in gold with its clock -- for a stream camera",
-    "Phones get words on their page (the phone buzzes where it can) and can send them from a row under HIT",
-    "PHONE SEATS (2.9.65): the host's lobby phone button opens a hotspot named after the table; a phone on it gets a page with a real seat",
-    "Update over a phone hotspot: resolver fallback, resumable download (2.9.64); team numbers on the lobby dots, fanfare once (2.9.63)"
+    "Phone seats: the page is served from its own task -- a refresh or a browser's spare connection no longer stalls the device, and taps answer at once",
+    "Phone seats: TAKE A SEAT turns into CONNECTING and cannot be tapped twice; the same name gets the same seat, and a refresh lands back in it",
+    "Phone page relaid: the table and END TURN up top, life in the middle with its clock, then POISON / ENERGY / RAD, MONARCH and INITIATIVE; every seat shows its clock",
+    "Phone page: HIT amounts step by 1, 5 and 10 (3 stays, for the bolt); pull-to-refresh is blocked",
+    "Emotes rise up the glass and fade in their own colour: Hurry up! red, GG green, Nice! white, Does it resolve?? blue (the ring pulses to match)",
+    "WATCH, phone seats, the resolver fallback and resumable update, team numbers and the once-only fanfare from 2.9.63 to 2.9.67"
   ]
 }
