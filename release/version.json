@@ -1,16 +1,15 @@
 {
-  "version": "2.9.63",
-  "version_code": 20963,
-  "sha256": "4dbb89980bb6b92a5cb719b2b47cec61a712558f43dc45349267a7d40dba7f62",
-  "size": 2931264,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.63.bin",
+  "version": "2.9.67",
+  "version_code": 20967,
+  "sha256": "fa421b0d34b893cb144b36ce7f31e054a7adb9f4bc69576ad018278bfffcab71",
+  "size": 2958528,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.67.bin",
   "notes": [
-    "Teams: both of a pair show their team's number on the lobby dot (1, 2, 3), since a pair takes one turn",
-    "Teams: the host's knob moves a tapped name from team to team, trading places so every team stays a pair",
-    "Teams: devices that join a table take TEAMS from the host, so pairs share one view and life (2.9.62)",
-    "Teams: every device's lobby title says its team; who goes first lists each team once, BEGIN says TEAM A (2.9.62)",
-    "Who goes first with five or six singles goes two abreast so the list clears BEGIN (2.9.62)",
-    "The fanfare plays once per game, however many times RESULTS opens or the round is recorded",
-    "Sounds load in 4 KB reads again (2.9.60 read a long fanfare one frame at a time, seconds of it)"
+    "EMOTES: a smiley low on the left of the table face -- pick who (everyone, or a seat; whose turn it is starts selected) and a word: Hurry up!, GG, Nice!, Does it resolve??",
+    "A word lands on their device as a gold toast with your name, a double pulse of the ring, and the EMOTE sound if one is on the card (bind one under EXTRAS > SFX)",
+    "WATCH: on the join code pad, WATCH joins the table with no seat and shows it whole -- one tile per player, the turn in gold with its clock -- for a stream camera",
+    "Phones get words on their page (the phone buzzes where it can) and can send them from a row under HIT",
+    "PHONE SEATS (2.9.65): the host's lobby phone button opens a hotspot named after the table; a phone on it gets a page with a real seat",
+    "Update over a phone hotspot: resolver fallback, resumable download (2.9.64); team numbers on the lobby dots, fanfare once (2.9.63)"
   ]
 }
