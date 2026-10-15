@@ -1,15 +1,13 @@
 {
-  "version": "2.9.68",
-  "version_code": 20968,
-  "sha256": "b932322dd36a23980657fe17cad922fccaaacb82957561996c573b1142405579",
-  "size": 2963088,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.68.bin",
+  "version": "2.9.69",
+  "version_code": 20969,
+  "sha256": "6940c430d0329c7dec745afbb2713c4c8039ac619a71c754c99db81f7e14547c",
+  "size": 2946352,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.69.bin",
   "notes": [
-    "Phone seats: the page is served from its own task -- a refresh or a browser's spare connection no longer stalls the device, and taps answer at once",
-    "Phone seats: TAKE A SEAT turns into CONNECTING and cannot be tapped twice; the same name gets the same seat, and a refresh lands back in it",
-    "Phone page relaid: the table and END TURN up top, life in the middle with its clock, then POISON / ENERGY / RAD, MONARCH and INITIATIVE; every seat shows its clock",
-    "Phone page: HIT amounts step by 1, 5 and 10 (3 stays, for the bolt); pull-to-refresh is blocked",
-    "Emotes rise up the glass and fade in their own colour: Hurry up! red, GG green, Nice! white, Does it resolve?? blue (the ring pulses to match)",
+    "Phone seats: the page's task asks for less memory, asks three times, and frees the art decoders first; if the hotspot still refuses, the screen says why",
+    "Phone seats: the page is served from its own task (2.9.68) -- a refresh no longer stalls the device; one seat per name; the relaid page with clocks and tokens",
+    "Emotes rise up the glass and fade in their own colour (2.9.68)",
     "WATCH, phone seats, the resolver fallback and resumable update, team numbers and the once-only fanfare from 2.9.63 to 2.9.67"
   ]
 }
