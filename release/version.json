@@ -1,13 +1,13 @@
 {
-  "version": "2.9.69",
-  "version_code": 20969,
-  "sha256": "6940c430d0329c7dec745afbb2713c4c8039ac619a71c754c99db81f7e14547c",
-  "size": 2946352,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.69.bin",
+  "version": "2.9.70",
+  "version_code": 20970,
+  "sha256": "310314ef88c7e2fcfd5e86672924c06654d6c105e4cefef958ee91c15cddc4db",
+  "size": 2963280,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.70.bin",
   "notes": [
-    "Phone seats: the page's task asks for less memory, asks three times, and frees the art decoders first; if the hotspot still refuses, the screen says why",
-    "Phone seats: the page is served from its own task (2.9.68) -- a refresh no longer stalls the device; one seat per name; the relaid page with clocks and tokens",
-    "Emotes rise up the glass and fade in their own colour (2.9.68)",
+    "Phone seats: the page arrives again -- the server dropped requests with long headers (a phone browser's client hints and cookies run past a kilobyte), so the hotspot came up and no page ever showed",
+    "Phone seats: the page's task asks for less memory and names the reason on screen if the hotspot refuses (2.9.69)",
+    "Phone seats on their own task, one seat per name, the relaid page with clocks and tokens; emotes rise in colour (2.9.68)",
     "WATCH, phone seats, the resolver fallback and resumable update, team numbers and the once-only fanfare from 2.9.63 to 2.9.67"
   ]
 }
