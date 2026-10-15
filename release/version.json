@@ -1,13 +1,13 @@
 {
-  "version": "2.9.71",
-  "version_code": 20971,
-  "sha256": "e07700c7bb3eb427f3e06af6f3a4db48d1793fee6bec2b9633b1a5e0ed23f851",
-  "size": 2964272,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.71.bin",
+  "version": "2.9.73",
+  "version_code": 20973,
+  "sha256": "6030595564dce8771c53259bc81e1d3ca6cfc68f72a9e3021d7db5758ce8db3a",
+  "size": 2964880,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.73.bin",
   "notes": [
-    "Phone seats: the page's server keeps four connections open at once and judges each by what it sends, so a browser's spare connection or a stale socket state can no longer abort the sign-in sheet",
-    "Phone seats: the lobby line counts the page's connections (served / dropped) so a problem can be reported without a cable",
-    "Phone seats: long phone-browser headers no longer drop the request (2.9.70); the page's task asks for less memory (2.9.69)",
+    "The speaker comes back after an update check: the player's task is paused for the check and resumed after, instead of torn down and rebuilt -- rebuilding needed 32 KB of internal RAM the device can no longer find, and the music stayed off until a power cycle",
+    "The music screen's 'Speaker is off' line shows the free internal RAM, so a silent device can be read at a glance",
+    "Phone seats: the page's task and connections live in PSRAM (2.9.72); four connections at once (2.9.71); long phone headers accepted (2.9.70)",
     "Phone seats on their own task, one seat per name, the relaid page; emotes rise in colour (2.9.68)"
   ]
 }
