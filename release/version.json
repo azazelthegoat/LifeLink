@@ -1,13 +1,13 @@
 {
-  "version": "2.9.70",
-  "version_code": 20970,
-  "sha256": "310314ef88c7e2fcfd5e86672924c06654d6c105e4cefef958ee91c15cddc4db",
-  "size": 2963280,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.70.bin",
+  "version": "2.9.71",
+  "version_code": 20971,
+  "sha256": "e07700c7bb3eb427f3e06af6f3a4db48d1793fee6bec2b9633b1a5e0ed23f851",
+  "size": 2964272,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.71.bin",
   "notes": [
-    "Phone seats: the page arrives again -- the server dropped requests with long headers (a phone browser's client hints and cookies run past a kilobyte), so the hotspot came up and no page ever showed",
-    "Phone seats: the page's task asks for less memory and names the reason on screen if the hotspot refuses (2.9.69)",
-    "Phone seats on their own task, one seat per name, the relaid page with clocks and tokens; emotes rise in colour (2.9.68)",
-    "WATCH, phone seats, the resolver fallback and resumable update, team numbers and the once-only fanfare from 2.9.63 to 2.9.67"
+    "Phone seats: the page's server keeps four connections open at once and judges each by what it sends, so a browser's spare connection or a stale socket state can no longer abort the sign-in sheet",
+    "Phone seats: the lobby line counts the page's connections (served / dropped) so a problem can be reported without a cable",
+    "Phone seats: long phone-browser headers no longer drop the request (2.9.70); the page's task asks for less memory (2.9.69)",
+    "Phone seats on their own task, one seat per name, the relaid page; emotes rise in colour (2.9.68)"
   ]
 }
