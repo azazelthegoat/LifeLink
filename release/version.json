@@ -1,13 +1,15 @@
 {
-  "version": "2.9.73",
-  "version_code": 20973,
-  "sha256": "6030595564dce8771c53259bc81e1d3ca6cfc68f72a9e3021d7db5758ce8db3a",
-  "size": 2964880,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-2.9.73.bin",
+  "version": "3.0.39",
+  "version_code": 30039,
+  "sha256": "716ed6416ab260c255b0386135a85a78129e0ffd149d36ea490133cf3a8e2ebf",
+  "size": 2925920,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.39.bin",
   "notes": [
-    "The speaker comes back after an update check: the player's task is paused for the check and resumed after, instead of torn down and rebuilt -- rebuilding needed 32 KB of internal RAM the device can no longer find, and the music stayed off until a power cycle",
-    "The music screen's 'Speaker is off' line shows the free internal RAM, so a silent device can be read at a glance",
-    "Phone seats: the page's task and connections live in PSRAM (2.9.72); four connections at once (2.9.71); long phone headers accepted (2.9.70)",
-    "Phone seats on their own task, one seat per name, the relaid page; emotes rise in colour (2.9.68)"
+    "Settings, WiFi password included, now survive flashing a new build over USB",
+    "The printer setup, the voice key and the tour come back after a USB flash too",
+    "The music note shows on the home screen as well as the game screen, from the first song until restart",
+    "The music note is bigger and easier to see: bright while playing, dim when paused or stopped",
+    "MOMIR always draws from the card library, even after the emblems or another library was opened",
+    "MOMIR matches Creature in any case and logs what the library holds when it finds none"
   ]
 }
