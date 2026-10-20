@@ -1,16 +1,16 @@
 {
-  "version": "3.0.51",
-  "version_code": 30051,
-  "sha256": "08601cc2203952b49b2bb22be20e52199d470c4ec39d9cccf7da5549e3511013",
-  "size": 3028704,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.51.bin",
+  "version": "3.0.52",
+  "version_code": 30052,
+  "sha256": "e9b8750916112f607167e1e84fbf9d71689821d6c4ef903be30e451eb8bdc249",
+  "size": 3033776,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.52.bin",
   "notes": [
-    "Toxic and infect are told apart. INFECT stays a kind: its damage is poison instead of life. TOXIC is new: a combat hit that gives N poison as well",
-    "the hit page's BURN and TOXIC are a pair -- one or the other, since toxic only counts combat damage",
-    "with TOXIC lit the amount row is two dials, the hit and the poison; the knob turns the one you touched last, and the button reads HIT 4  TOXIC 1",
-    "TOXIC works with DAMAGE, COMMANDER and INFECT, LIFELINK and the spreads; it takes the monarch like any combat hit, UNDO takes the poison back too, and history marks it with a drop",
-    "RPG window: a TOXIC box under LIFELINK, its N on the HOW MUCH window, poison bubbles and +N POISON on the battle stage; a long battle line now scrolls instead of covering the heroes",
-    "BASIC at a table: the turn ring sits at the edge of the glass, and the opponent panels move up to meet it",
-    "a Life Link that drops out of range no longer plays itself the winner's fanfare for a moment when only an OUT seat is still in touch"
+    "Battery gauge: it reads a spread of samples, not while WiFi is on, and on battery it only goes down, a step at a time -- no more jumping about",
+    "SETUP > Battery: check the gauge against a multimeter and SAVE the calibration; LOG TO CARD writes /logs/battery.csv every 30 s",
+    "the battery sits in one place on every screen: top centre, clear of the curve (the home clock is under it)",
+    "toasts: 1.5 s at most, the UNDO ones too, with a quick fade; the same message said again no longer keeps one up",
+    "tap an opponent's panel and their sheet opens on COUNTERS -- big tiles with each count and its name; drag onto a panel to attack",
+    "painted wheel skins look like 2.9 again: smoked glass with bright edges over the dark, not over pale plates",
+    "Name this device: SETUP > Device changes it later moved clear of NOT NOW"
   ]
 }
