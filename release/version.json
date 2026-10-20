@@ -1,14 +1,12 @@
 {
-  "version": "3.0.58",
-  "version_code": 30058,
-  "sha256": "42ed3c410437801a7fedb1bf39eafa5a66a7d0147a5d5e2aa7af8f66141980e2",
-  "size": 3366240,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.58.bin",
+  "version": "3.0.60",
+  "version_code": 30060,
+  "sha256": "006d6960820c31921f176fd97fc4e97a4d9c3c31321671d1e7802fbbec2cb3bf",
+  "size": 3366944,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.60.bin",
   "notes": [
-    "Now Aether Archive Pro (was Life Link Pro)",
-    "New logo on the start-up screen",
-    "The logo on the home screen, behind the buttons",
-    "SETUP > Home logo: Behind, Above or Off",
-    "Hotspots, phone pages and USB drive renamed"
+    "RPG battle: ATTACK, MAGIC, SPECIAL, HEAL",
+    "SPECIAL: Commander, Infect, Toxic, Poisonous, Lifelink",
+    "LIFELINK box stays under the commands"
   ]
 }
