@@ -1,15 +1,15 @@
 {
-  "version": "3.0.43",
-  "version_code": 30043,
-  "sha256": "da9c8b58649e252551ad6a05ba24c64a6fa0489791a468a5776ea296ff8dbfce",
-  "size": 2938688,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.43.bin",
+  "version": "3.0.44",
+  "version_code": 30044,
+  "sha256": "09e2ffb16aac8cb67116a62a8b1e0e727394a1965200fa2f3fc7ba2c2319ddd3",
+  "size": 2950688,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.44.bin",
   "notes": [
-    "SETUP > Sword: Classic, RPG menu or RPG battle -- the sword opens a retro command window: ATTACK, MAGIC (a burn), COMMANDER, INFECT, HEAL",
-    "Turn the knob to move the glove; tap the glove's row to choose (a tap on another row only moves the glove)",
-    "RPG battle: then who (HP beside each name, ALL FOES), how much, and the line the game says; the UNDO toast waits on the face",
-    "RPG menu: the window, then the usual pages already set to its kind",
-    "Drop the sword on a seat and the window opens aimed at it; SETUP > RPG window: Blue or Black",
-    "The sword also shows on one device with seats round the face, so the window can be tried without a table"
+    "ASK A JUDGE (GAME > JUDGE, or a quick slot): a rules question for the game you are playing, answered by an AI in a few seconds",
+    "SPEAK opens the keyboard with the mic listening (up to 15 s, it waits through a pause); TYPE opens the keyboard",
+    "The ruling scrolls with the knob or a drag; the mic and keys at its foot ask the next one; reopening shows the last answer",
+    "It asks with the voice key (OpenAI), or Claude with anthropic.key, or any server in judge.txt -- one OpenAI key turns on the mic and the judge",
+    "The mic's text can now be 240 characters (was 96)",
+    "The wall clock on the face says am / pm: BASIC's TURN 1   8:22 read as a turn clock"
   ]
 }
