@@ -1,16 +1,11 @@
 {
-  "version": "3.0.53",
-  "version_code": 30053,
-  "sha256": "0e275230cb59917410f8f99ee6ff25fff1263a8468f8a6f2a9b77f8662fe95c0",
-  "size": 3038800,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.53.bin",
+  "version": "3.0.54",
+  "version_code": 30054,
+  "sha256": "513efc006cf2d8bf1ab71217f475f55537bae13e8d1026834e09f4a6d7f83dda",
+  "size": 3038192,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.54.bin",
   "notes": [
-    "Teams at a table share one life total, 30 in Magic, and both devices of a pair show it named for both (Alex & Chris)",
-    "BASIC face at a table: your name over the number and your clock under it (the +5 takes its place while it shows)",
-    "FULL face at a table: the opponents' panels and the turn ring out at the edge of the glass, as BASIC got in 3.0.51",
-    "phone seats: LIFELINK, BURN and TOXIC on the phone's attack, and the button says what it will do",
-    "long names shorten readably: Tom&Chris, Troy&Kurt, then initials; a single name ends in ...",
-    "the built-in glass is smoked like 2.9 on Medium: darker plates, bright edges",
-    "Game Boy: the hot parts of the emulator run from fast RAM; the pause hub shows a frame with a picture | without; the pause wheel wears the painted wheel-8"
+    "Seat Colour: the preview and the colour square show the true colour again -- with card art on they were drawn under a dark plate",
+    "Seat Colour: the title sits lower, clear of the curve of the glass"
   ]
 }
