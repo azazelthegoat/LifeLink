@@ -1,15 +1,11 @@
 {
-  "version": "3.0.44",
-  "version_code": 30044,
-  "sha256": "09e2ffb16aac8cb67116a62a8b1e0e727394a1965200fa2f3fc7ba2c2319ddd3",
-  "size": 2950688,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.44.bin",
+  "version": "3.0.45",
+  "version_code": 30045,
+  "sha256": "0155cf1b59714d709c955ae1cdeff77a2a5365bceeb6c09046c998ab8173682e",
+  "size": 2951152,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.45.bin",
   "notes": [
-    "ASK A JUDGE (GAME > JUDGE, or a quick slot): a rules question for the game you are playing, answered by an AI in a few seconds",
-    "SPEAK opens the keyboard with the mic listening (up to 15 s, it waits through a pause); TYPE opens the keyboard",
-    "The ruling scrolls with the knob or a drag; the mic and keys at its foot ask the next one; reopening shows the last answer",
-    "It asks with the voice key (OpenAI), or Claude with anthropic.key, or any server in judge.txt -- one OpenAI key turns on the mic and the judge",
-    "The mic's text can now be 240 characters (was 96)",
-    "The wall clock on the face says am / pm: BASIC's TURN 1   8:22 read as a turn clock"
+    "ASK A JUDGE: tap the question over the ruling to see what was asked in full; tap again (or turn the knob) to put it away",
+    "A cut question ends in a small arrow, so you know there is more"
   ]
 }
