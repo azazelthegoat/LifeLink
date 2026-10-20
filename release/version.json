@@ -1,15 +1,14 @@
 {
-  "version": "3.0.40",
-  "version_code": 30040,
-  "sha256": "86be4282b2edd87f2ac9d171785f701ef19122c292072d73cdb700caa8722e6e",
-  "size": 2926160,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.40.bin",
+  "version": "3.0.41",
+  "version_code": 30041,
+  "sha256": "7b678cff0cc996b6e5f8d8eb65aadba85c3c6ed96cf6e98bdcd33e999837009c",
+  "size": 2930000,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.41.bin",
   "notes": [
-    "The home screen has no outer rim",
-    "Shared screen: each seat's wedge is washed in its seat colour, with a full-colour rim",
-    "Shared screen: the player whose turn it is has a stronger wash and a cream line inside the rim",
-    "Over card art, the shared screen's life totals have the soft drop shadow instead of a black box",
-    "The D&D hit points and the Pokemon board's HP have the same drop shadow over card art",
-    "In multiplayer the LED ring no longer blinks for low life (a game on its own still does)"
+    "Shared screen: whoever goes first is selected, so the knob changes their life",
+    "Shared screen: when all but one are at 0 it asks Did NAME win? with YES, RESTART and END",
+    "YES shows Winner NAME! with the fanfare; RESTART goes back to who goes first with the same names; END goes home",
+    "Shared screen: hold the hub for SET LIFE (everyone or one player), RESET GAME and END GAME",
+    "New game: a double tap on a choice goes to the next step (NEXT still works)"
   ]
 }
