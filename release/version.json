@@ -1,15 +1,14 @@
 {
-  "version": "3.0.55",
-  "version_code": 30055,
-  "sha256": "ac3209ee4b1e0da1f0dff26b066563b3a76a90d4c21a1225f5200928bcbd068a",
-  "size": 3306896,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.55.bin",
+  "version": "3.0.56",
+  "version_code": 30056,
+  "sha256": "b5e64a6b6f1136899146d0def13dd435d055c161012e2df0102c961e77818f25",
+  "size": 3308848,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.56.bin",
   "notes": [
-    "New picture icons on every wheel and list",
-    "SETUP > Icons: Picture or Drawn",
-    "Card art, clock, WiFi and D&D wedges get their own icons",
-    "Turn chime works: your turn, and time up",
-    "Haptics on a critical hit and when the menu opens",
-    "SETUP > Haptics (shows None found without a motor)"
+    "SETUP > Haptics is a page: on/off, strength",
+    "A switch for each: menu, crits, turn, time up",
+    "... damage taken, emotes and the draft pass",
+    "Your turn and time up vibrate at a table",
+    "OUT is smaller and centred under the name"
   ]
 }
