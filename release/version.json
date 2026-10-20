@@ -1,12 +1,12 @@
 {
-  "version": "3.0.60",
-  "version_code": 30060,
-  "sha256": "006d6960820c31921f176fd97fc4e97a4d9c3c31321671d1e7802fbbec2cb3bf",
-  "size": 3366944,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.60.bin",
+  "version": "3.0.62",
+  "version_code": 30062,
+  "sha256": "c30cd64a5844417ff5825d560c4033953c1e39c674257bd2d4a98ec6b48d2b7d",
+  "size": 3374944,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.62.bin",
   "notes": [
-    "RPG battle: ATTACK, MAGIC, SPECIAL, HEAL",
-    "SPECIAL: Commander, Infect, Toxic, Poisonous, Lifelink",
-    "LIFELINK box stays under the commands"
+    "Screensaver: art, logo and a big clock",
+    "Display > Screen > Screensaver turns it on or off",
+    "Shows when the screen would turn off; a tap resumes"
   ]
 }
