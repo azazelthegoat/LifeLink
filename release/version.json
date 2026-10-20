@@ -1,12 +1,11 @@
 {
-  "version": "3.0.62",
-  "version_code": 30062,
-  "sha256": "c30cd64a5844417ff5825d560c4033953c1e39c674257bd2d4a98ec6b48d2b7d",
-  "size": 3374944,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.62.bin",
+  "version": "3.0.63",
+  "version_code": 30063,
+  "sha256": "f93ccd84ceb1942aadde9d0910f5f7471a0cf7e33592894e6a04f5a90e22a532",
+  "size": 3375360,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.63.bin",
   "notes": [
-    "Screensaver: art, logo and a big clock",
-    "Display > Screen > Screensaver turns it on or off",
-    "Shows when the screen would turn off; a tap resumes"
+    "Game Boy: PICTURE has a 30 fps mode for each size",
+    "Game Boy: SOUND off skips the sound chip"
   ]
 }
