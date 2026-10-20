@@ -1,14 +1,14 @@
 {
-  "version": "3.0.56",
-  "version_code": 30056,
-  "sha256": "b5e64a6b6f1136899146d0def13dd435d055c161012e2df0102c961e77818f25",
-  "size": 3308848,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.56.bin",
+  "version": "3.0.58",
+  "version_code": 30058,
+  "sha256": "42ed3c410437801a7fedb1bf39eafa5a66a7d0147a5d5e2aa7af8f66141980e2",
+  "size": 3366240,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.58.bin",
   "notes": [
-    "SETUP > Haptics is a page: on/off, strength",
-    "A switch for each: menu, crits, turn, time up",
-    "... damage taken, emotes and the draft pass",
-    "Your turn and time up vibrate at a table",
-    "OUT is smaller and centred under the name"
+    "Now Aether Archive Pro (was Life Link Pro)",
+    "New logo on the start-up screen",
+    "The logo on the home screen, behind the buttons",
+    "SETUP > Home logo: Behind, Above or Off",
+    "Hotspots, phone pages and USB drive renamed"
   ]
 }
