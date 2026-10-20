@@ -1,16 +1,16 @@
 {
-  "version": "3.0.52",
-  "version_code": 30052,
-  "sha256": "e9b8750916112f607167e1e84fbf9d71689821d6c4ef903be30e451eb8bdc249",
-  "size": 3033776,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.52.bin",
+  "version": "3.0.53",
+  "version_code": 30053,
+  "sha256": "0e275230cb59917410f8f99ee6ff25fff1263a8468f8a6f2a9b77f8662fe95c0",
+  "size": 3038800,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.53.bin",
   "notes": [
-    "Battery gauge: it reads a spread of samples, not while WiFi is on, and on battery it only goes down, a step at a time -- no more jumping about",
-    "SETUP > Battery: check the gauge against a multimeter and SAVE the calibration; LOG TO CARD writes /logs/battery.csv every 30 s",
-    "the battery sits in one place on every screen: top centre, clear of the curve (the home clock is under it)",
-    "toasts: 1.5 s at most, the UNDO ones too, with a quick fade; the same message said again no longer keeps one up",
-    "tap an opponent's panel and their sheet opens on COUNTERS -- big tiles with each count and its name; drag onto a panel to attack",
-    "painted wheel skins look like 2.9 again: smoked glass with bright edges over the dark, not over pale plates",
-    "Name this device: SETUP > Device changes it later moved clear of NOT NOW"
+    "Teams at a table share one life total, 30 in Magic, and both devices of a pair show it named for both (Alex & Chris)",
+    "BASIC face at a table: your name over the number and your clock under it (the +5 takes its place while it shows)",
+    "FULL face at a table: the opponents' panels and the turn ring out at the edge of the glass, as BASIC got in 3.0.51",
+    "phone seats: LIFELINK, BURN and TOXIC on the phone's attack, and the button says what it will do",
+    "long names shorten readably: Tom&Chris, Troy&Kurt, then initials; a single name ends in ...",
+    "the built-in glass is smoked like 2.9 on Medium: darker plates, bright edges",
+    "Game Boy: the hot parts of the emulator run from fast RAM; the pause hub shows a frame with a picture | without; the pause wheel wears the painted wheel-8"
   ]
 }
