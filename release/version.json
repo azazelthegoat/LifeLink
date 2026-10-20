@@ -1,14 +1,15 @@
 {
-  "version": "3.0.41",
-  "version_code": 30041,
-  "sha256": "7b678cff0cc996b6e5f8d8eb65aadba85c3c6ed96cf6e98bdcd33e999837009c",
-  "size": 2930000,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.41.bin",
+  "version": "3.0.43",
+  "version_code": 30043,
+  "sha256": "da9c8b58649e252551ad6a05ba24c64a6fa0489791a468a5776ea296ff8dbfce",
+  "size": 2938688,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.43.bin",
   "notes": [
-    "Shared screen: whoever goes first is selected, so the knob changes their life",
-    "Shared screen: when all but one are at 0 it asks Did NAME win? with YES, RESTART and END",
-    "YES shows Winner NAME! with the fanfare; RESTART goes back to who goes first with the same names; END goes home",
-    "Shared screen: hold the hub for SET LIFE (everyone or one player), RESET GAME and END GAME",
-    "New game: a double tap on a choice goes to the next step (NEXT still works)"
+    "SETUP > Sword: Classic, RPG menu or RPG battle -- the sword opens a retro command window: ATTACK, MAGIC (a burn), COMMANDER, INFECT, HEAL",
+    "Turn the knob to move the glove; tap the glove's row to choose (a tap on another row only moves the glove)",
+    "RPG battle: then who (HP beside each name, ALL FOES), how much, and the line the game says; the UNDO toast waits on the face",
+    "RPG menu: the window, then the usual pages already set to its kind",
+    "Drop the sword on a seat and the window opens aimed at it; SETUP > RPG window: Blue or Black",
+    "The sword also shows on one device with seats round the face, so the window can be tried without a table"
   ]
 }
