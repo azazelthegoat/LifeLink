@@ -1,13 +1,16 @@
 {
-  "version": "3.0.49",
-  "version_code": 30049,
-  "sha256": "10abc5834982c264a9f7c4748edc7137f8014f535a08255bbfe0ffe55013f31d",
-  "size": 3023184,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.49.bin",
+  "version": "3.0.51",
+  "version_code": 30051,
+  "sha256": "08601cc2203952b49b2bb22be20e52199d470c4ec39d9cccf7da5549e3511013",
+  "size": 3028704,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.51.bin",
   "notes": [
-    "RPG heroes at a table: each Life Link's hero travels with its seat",
-    "When the player you hit has a hero, it stands on the left facing yours, their number over its head",
-    "It blinks and steps back as the blow lands, glows green when healed, and fades in red when the hit puts them out",
-    "All the Life Links at the table need 3.0.49 to see each other's heroes"
+    "Toxic and infect are told apart. INFECT stays a kind: its damage is poison instead of life. TOXIC is new: a combat hit that gives N poison as well",
+    "the hit page's BURN and TOXIC are a pair -- one or the other, since toxic only counts combat damage",
+    "with TOXIC lit the amount row is two dials, the hit and the poison; the knob turns the one you touched last, and the button reads HIT 4  TOXIC 1",
+    "TOXIC works with DAMAGE, COMMANDER and INFECT, LIFELINK and the spreads; it takes the monarch like any combat hit, UNDO takes the poison back too, and history marks it with a drop",
+    "RPG window: a TOXIC box under LIFELINK, its N on the HOW MUCH window, poison bubbles and +N POISON on the battle stage; a long battle line now scrolls instead of covering the heroes",
+    "BASIC at a table: the turn ring sits at the edge of the glass, and the opponent panels move up to meet it",
+    "a Life Link that drops out of range no longer plays itself the winner's fanfare for a moment when only an OUT seat is still in touch"
   ]
 }
