@@ -1,11 +1,13 @@
 {
-  "version": "3.0.45",
-  "version_code": 30045,
-  "sha256": "0155cf1b59714d709c955ae1cdeff77a2a5365bceeb6c09046c998ab8173682e",
-  "size": 2951152,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.45.bin",
+  "version": "3.0.49",
+  "version_code": 30049,
+  "sha256": "10abc5834982c264a9f7c4748edc7137f8014f535a08255bbfe0ffe55013f31d",
+  "size": 3023184,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.49.bin",
   "notes": [
-    "ASK A JUDGE: tap the question over the ruling to see what was asked in full; tap again (or turn the knob) to put it away",
-    "A cut question ends in a small arrow, so you know there is more"
+    "RPG heroes at a table: each Life Link's hero travels with its seat",
+    "When the player you hit has a hero, it stands on the left facing yours, their number over its head",
+    "It blinks and steps back as the blow lands, glows green when healed, and fades in red when the hit puts them out",
+    "All the Life Links at the table need 3.0.49 to see each other's heroes"
   ]
 }
