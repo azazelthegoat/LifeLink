@@ -1,15 +1,15 @@
 {
-  "version": "3.0.39",
-  "version_code": 30039,
-  "sha256": "716ed6416ab260c255b0386135a85a78129e0ffd149d36ea490133cf3a8e2ebf",
-  "size": 2925920,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.39.bin",
+  "version": "3.0.40",
+  "version_code": 30040,
+  "sha256": "86be4282b2edd87f2ac9d171785f701ef19122c292072d73cdb700caa8722e6e",
+  "size": 2926160,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.40.bin",
   "notes": [
-    "Settings, WiFi password included, now survive flashing a new build over USB",
-    "The printer setup, the voice key and the tour come back after a USB flash too",
-    "The music note shows on the home screen as well as the game screen, from the first song until restart",
-    "The music note is bigger and easier to see: bright while playing, dim when paused or stopped",
-    "MOMIR always draws from the card library, even after the emblems or another library was opened",
-    "MOMIR matches Creature in any case and logs what the library holds when it finds none"
+    "The home screen has no outer rim",
+    "Shared screen: each seat's wedge is washed in its seat colour, with a full-colour rim",
+    "Shared screen: the player whose turn it is has a stronger wash and a cream line inside the rim",
+    "Over card art, the shared screen's life totals have the soft drop shadow instead of a black box",
+    "The D&D hit points and the Pokemon board's HP have the same drop shadow over card art",
+    "In multiplayer the LED ring no longer blinks for low life (a game on its own still does)"
   ]
 }
