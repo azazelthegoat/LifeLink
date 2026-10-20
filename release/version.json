@@ -1,11 +1,15 @@
 {
-  "version": "3.0.54",
-  "version_code": 30054,
-  "sha256": "513efc006cf2d8bf1ab71217f475f55537bae13e8d1026834e09f4a6d7f83dda",
-  "size": 3038192,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.54.bin",
+  "version": "3.0.55",
+  "version_code": 30055,
+  "sha256": "ac3209ee4b1e0da1f0dff26b066563b3a76a90d4c21a1225f5200928bcbd068a",
+  "size": 3306896,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.55.bin",
   "notes": [
-    "Seat Colour: the preview and the colour square show the true colour again -- with card art on they were drawn under a dark plate",
-    "Seat Colour: the title sits lower, clear of the curve of the glass"
+    "New picture icons on every wheel and list",
+    "SETUP > Icons: Picture or Drawn",
+    "Card art, clock, WiFi and D&D wedges get their own icons",
+    "Turn chime works: your turn, and time up",
+    "Haptics on a critical hit and when the menu opens",
+    "SETUP > Haptics (shows None found without a motor)"
   ]
 }
