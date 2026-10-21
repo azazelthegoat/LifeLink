@@ -1,14 +1,15 @@
 {
-  "version": "3.0.67",
-  "version_code": 30067,
-  "sha256": "541cee14fcbc790c9e04de09c6d883840914639f490f365f14317e553128e751",
-  "size": 3613280,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.67.bin",
+  "version": "3.0.68",
+  "version_code": 30068,
+  "sha256": "4b9193b523a8b9ef3ffe66a8b284b73c6997e66f02a6b8d25ce8065fa2fb47f8",
+  "size": 3618800,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.68.bin",
   "notes": [
-    "RPG hero: 24 new heroes -- thirty to choose from",
-    "Six to a page: turn the knob, tap the arrows or swipe to browse",
-    "Sounds: play button, ticks then CONFIRM, TURN CHIME job (3.0.66)",
-    "Opponent sheet: just their counters (3.0.65)",
-    "Ask a Judge listens until you tap STOP (3.0.64)"
+    "RPG battle: ATTACK fights with your hero's weapon",
+    "Sword slash, knife cuts, spear poke, punch marks",
+    "Arrows, gun blast, staff bolt and a poof of smoke",
+    "Tap your hero in SETUP > RPG hero to see its attack",
+    "Thirty RPG heroes, six to a page (3.0.67)",
+    "Sounds: play button, CONFIRM, TURN CHIME job (3.0.66)"
   ]
 }
