@@ -1,13 +1,14 @@
 {
-  "version": "3.0.64",
-  "version_code": 30064,
-  "sha256": "49a8a0ed1b46bf8f782b6cf0c347fd368988cc1d959897c1e3eedcdd39f96e08",
-  "size": 3376672,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.64.bin",
+  "version": "3.0.65",
+  "version_code": 30065,
+  "sha256": "8ef9b9ad7e085e1c29c9aa554595f6d031c896480707e68e49accfd4d3cca546",
+  "size": 3376000,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.65.bin",
   "notes": [
-    "Ask a Judge: the mic keeps listening until you tap STOP",
-    "A pause or a stray tap no longer ends your question",
-    "Questions up to 45 s (the last 10 s counted down)",
-    "A long question scrolls with the knob when you tap it"
+    "Opponent sheet: just their counters (the CMD DMG rows are gone)",
+    "Commander damage tiles say whose commander it is",
+    "Turning a commander damage tile keeps the 21 check in step",
+    "Ask a Judge: the mic keeps listening until you tap STOP (3.0.64)",
+    "Questions up to 45 s; a long one scrolls when you tap it (3.0.64)"
   ]
 }
