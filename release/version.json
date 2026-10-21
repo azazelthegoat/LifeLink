@@ -1,11 +1,13 @@
 {
-  "version": "3.0.63",
-  "version_code": 30063,
-  "sha256": "f93ccd84ceb1942aadde9d0910f5f7471a0cf7e33592894e6a04f5a90e22a532",
-  "size": 3375360,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.63.bin",
+  "version": "3.0.64",
+  "version_code": 30064,
+  "sha256": "49a8a0ed1b46bf8f782b6cf0c347fd368988cc1d959897c1e3eedcdd39f96e08",
+  "size": 3376672,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.64.bin",
   "notes": [
-    "Game Boy: PICTURE has a 30 fps mode for each size",
-    "Game Boy: SOUND off skips the sound chip"
+    "Ask a Judge: the mic keeps listening until you tap STOP",
+    "A pause or a stray tap no longer ends your question",
+    "Questions up to 45 s (the last 10 s counted down)",
+    "A long question scrolls with the knob when you tap it"
   ]
 }
