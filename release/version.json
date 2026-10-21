@@ -1,15 +1,14 @@
 {
-  "version": "3.0.66",
-  "version_code": 30066,
-  "sha256": "7978044647729ef4b5cc42b589c6978bc781b340227c5fe234f4656a89fe3cef",
-  "size": 3377536,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.66.bin",
+  "version": "3.0.67",
+  "version_code": 30067,
+  "sha256": "541cee14fcbc790c9e04de09c6d883840914639f490f365f14317e553128e751",
+  "size": 3613280,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.67.bin",
   "notes": [
-    "Sounds: moving through the list no longer plays each sound",
-    "A play button on the picked sound (and in the assign panel)",
-    "Hold a sound, tick its jobs, then CONFIRM (CANCEL leaves it)",
-    "New job: TURN CHIME -- any sound can be your turn chime",
-    "Opponent sheet: just their counters; commander tiles say whose (3.0.65)",
+    "RPG hero: 24 new heroes -- thirty to choose from",
+    "Six to a page: turn the knob, tap the arrows or swipe to browse",
+    "Sounds: play button, ticks then CONFIRM, TURN CHIME job (3.0.66)",
+    "Opponent sheet: just their counters (3.0.65)",
     "Ask a Judge listens until you tap STOP (3.0.64)"
   ]
 }
