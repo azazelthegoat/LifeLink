@@ -1,14 +1,15 @@
 {
-  "version": "3.0.65",
-  "version_code": 30065,
-  "sha256": "8ef9b9ad7e085e1c29c9aa554595f6d031c896480707e68e49accfd4d3cca546",
-  "size": 3376000,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.65.bin",
+  "version": "3.0.66",
+  "version_code": 30066,
+  "sha256": "7978044647729ef4b5cc42b589c6978bc781b340227c5fe234f4656a89fe3cef",
+  "size": 3377536,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.66.bin",
   "notes": [
-    "Opponent sheet: just their counters (the CMD DMG rows are gone)",
-    "Commander damage tiles say whose commander it is",
-    "Turning a commander damage tile keeps the 21 check in step",
-    "Ask a Judge: the mic keeps listening until you tap STOP (3.0.64)",
-    "Questions up to 45 s; a long one scrolls when you tap it (3.0.64)"
+    "Sounds: moving through the list no longer plays each sound",
+    "A play button on the picked sound (and in the assign panel)",
+    "Hold a sound, tick its jobs, then CONFIRM (CANCEL leaves it)",
+    "New job: TURN CHIME -- any sound can be your turn chime",
+    "Opponent sheet: just their counters; commander tiles say whose (3.0.65)",
+    "Ask a Judge listens until you tap STOP (3.0.64)"
   ]
 }
