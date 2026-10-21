@@ -1,15 +1,13 @@
 {
-  "version": "3.0.68",
-  "version_code": 30068,
-  "sha256": "4b9193b523a8b9ef3ffe66a8b284b73c6997e66f02a6b8d25ce8065fa2fb47f8",
-  "size": 3618800,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.68.bin",
+  "version": "3.0.69",
+  "version_code": 30069,
+  "sha256": "eda3cb6494e3e4ec4c93303ffdb34f90f00fcb0d07523886a960df8183284b20",
+  "size": 3618624,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.69.bin",
   "notes": [
-    "RPG battle: ATTACK fights with your hero's weapon",
-    "Sword slash, knife cuts, spear poke, punch marks",
-    "Arrows, gun blast, staff bolt and a poof of smoke",
-    "Tap your hero in SETUP > RPG hero to see its attack",
-    "Thirty RPG heroes, six to a page (3.0.67)",
-    "Sounds: play button, CONFIRM, TURN CHIME job (3.0.66)"
+    "Holding END TURN no longer ends the game",
+    "END GAME lives in the game menu (hold your number)",
+    "SETUP > Emotes: the smiley on the face or in the game menu",
+    "Game menu: an EMOTE row when Emotes is In menu"
   ]
 }
