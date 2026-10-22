@@ -1,13 +1,13 @@
 {
-  "version": "3.0.69",
-  "version_code": 30069,
-  "sha256": "eda3cb6494e3e4ec4c93303ffdb34f90f00fcb0d07523886a960df8183284b20",
-  "size": 3618624,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.69.bin",
+  "version": "3.0.70",
+  "version_code": 30070,
+  "sha256": "a8409aef586bab5017872b6006e8d339e120f0394bd1d77913988b4d3434039f",
+  "size": 3618864,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.70.bin",
   "notes": [
-    "Holding END TURN no longer ends the game",
-    "END GAME lives in the game menu (hold your number)",
-    "SETUP > Emotes: the smiley on the face or in the game menu",
-    "Game menu: an EMOTE row when Emotes is In menu"
+    "Battery %: the cell's own curve, from a full-to-flat log",
+    "Battery % holds steady when the screen brightens",
+    "INFO > Est. left: right from the first half hour",
+    "Battery log: a curve_mv column"
   ]
 }
