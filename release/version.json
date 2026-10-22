@@ -1,13 +1,13 @@
 {
-  "version": "3.0.70",
-  "version_code": 30070,
-  "sha256": "a8409aef586bab5017872b6006e8d339e120f0394bd1d77913988b4d3434039f",
-  "size": 3618864,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.70.bin",
+  "version": "3.0.72",
+  "version_code": 30072,
+  "sha256": "94ceb68ddca22803f2ac260c295ad1339f502627826b2653fb9950a04df943dd",
+  "size": 3620928,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.72.bin",
   "notes": [
-    "Battery %: the cell's own curve, from a full-to-flat log",
-    "Battery % holds steady when the screen brightens",
-    "INFO > Est. left: right from the first half hour",
-    "Battery log: a curve_mv column"
+    "SETUP > Hits on you: a hit dealt to you plays on the RPG battle stage",
+    "Their hero swings at yours, with their weapon's mark",
+    "Commander damage: each badge dotted in its player's colour",
+    "Tap a commander badge to see whose it is"
   ]
 }
