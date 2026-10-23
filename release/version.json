@@ -1,13 +1,17 @@
 {
-  "version": "3.0.72",
-  "version_code": 30072,
-  "sha256": "94ceb68ddca22803f2ac260c295ad1339f502627826b2653fb9950a04df943dd",
-  "size": 3620928,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.72.bin",
+  "version": "3.0.73",
+  "version_code": 30073,
+  "sha256": "efd86069fbfff4418e30a418b0ce3719e85360096fce1d9b924387d6ccebf432",
+  "size": 3622736,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.73.bin",
   "notes": [
-    "SETUP > Hits on you: a hit dealt to you plays on the RPG battle stage",
-    "Their hero swings at yours, with their weapon's mark",
-    "Commander damage: each badge dotted in its player's colour",
-    "Tap a commander badge to see whose it is"
+    "SETUP is a wheel of six: Player, Look, Table, Shortcuts, Device, Maintenance",
+    "A (?) by a row says where else it is on the options wheel",
+    "Tap Maintenance's title 20 times for the developer rows",
+    "Seat, Format, Device and Auto dim are gone from SETUP",
+    "One foot everywhere: grey back, red close, green confirm",
+    "New Game, the tour and the clock: (>) to step on, Confirm at the end",
+    "Part way through New Game the X needs a second tap",
+    "Draft clock: the X at the foot, START and DONE on the tick"
   ]
 }
