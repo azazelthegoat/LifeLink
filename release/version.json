@@ -1,11 +1,15 @@
 {
-  "version": "3.0.76",
-  "version_code": 30076,
-  "sha256": "d658c1fc63c72ab9b9d85e5e1dbbb229fa6d80890c63c807c9e355c63a9c2b72",
-  "size": 3623568,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.76.bin",
+  "version": "3.0.77",
+  "version_code": 30077,
+  "sha256": "67bc93ccdc6cc9c2046d3d439e37dae505d0b3607320f31c60409b834f3c910a",
+  "size": 3638976,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.77.bin",
   "notes": [
-    "UPDATE: the answer shows by itself when the check ends",
-    "No more sitting on 'Checking for updates' until a tap or the knob"
+    "PRINT > PRINTER is a wheel: profile, printer, darkness, labels, speaks, feed, width, test page",
+    "PRINTER opens the connection wheel: use, find WiFi, Bluetooth, switch, address, forget",
+    "Each setting has its own page, and a (?) that says what it does",
+    "Printer profiles: save the settings to the card by name, load them back",
+    "Profiles are text files in /printers, for writing on a computer too",
+    "A profile with a match line loads itself when that printer is chosen"
   ]
 }
