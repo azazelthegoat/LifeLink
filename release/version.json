@@ -1,13 +1,11 @@
 {
-  "version": "3.0.75",
-  "version_code": 30075,
-  "sha256": "c665d59de74dcffcfb37e05cbeebe0a172426c1dca3a019ce5a470215ccc01da",
-  "size": 3623632,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.75.bin",
+  "version": "3.0.76",
+  "version_code": 30076,
+  "sha256": "d658c1fc63c72ab9b9d85e5e1dbbb229fa6d80890c63c807c9e355c63a9c2b72",
+  "size": 3623568,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.76.bin",
   "notes": [
-    "The quick pane slides out whole: no more steps or jagged edges",
-    "It always lands as one solid pane",
-    "Pulling it is smoother: the face under it is not drawn again each frame",
-    "The RPG window and the hero picker move in one piece too"
+    "UPDATE: the answer shows by itself when the check ends",
+    "No more sitting on 'Checking for updates' until a tap or the knob"
   ]
 }
