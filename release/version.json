@@ -1,17 +1,11 @@
 {
-  "version": "3.0.73",
-  "version_code": 30073,
-  "sha256": "efd86069fbfff4418e30a418b0ce3719e85360096fce1d9b924387d6ccebf432",
-  "size": 3622736,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.73.bin",
+  "version": "3.0.74",
+  "version_code": 30074,
+  "sha256": "9b8aebde1a6ac9fb041df7ae0c39b0f4e1d8ab6124c2a2687299891d7e8e8232",
+  "size": 3622672,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.74.bin",
   "notes": [
-    "SETUP is a wheel of six: Player, Look, Table, Shortcuts, Device, Maintenance",
-    "A (?) by a row says where else it is on the options wheel",
-    "Tap Maintenance's title 20 times for the developer rows",
-    "Seat, Format, Device and Auto dim are gone from SETUP",
-    "One foot everywhere: grey back, red close, green confirm",
-    "New Game, the tour and the clock: (>) to step on, Confirm at the end",
-    "Part way through New Game the X needs a second tap",
-    "Draft clock: the X at the foot, START and DONE on the tick"
+    "SETUP > Device > Nav buttons: Bold, Soft, Muted or Dim",
+    "The buttons at the foot start on Soft, the colours of the face's - and +"
   ]
 }
