@@ -1,15 +1,17 @@
 {
-  "version": "3.0.77",
-  "version_code": 30077,
-  "sha256": "67bc93ccdc6cc9c2046d3d439e37dae505d0b3607320f31c60409b834f3c910a",
-  "size": 3638976,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.77.bin",
+  "version": "3.0.79",
+  "version_code": 30079,
+  "sha256": "032140bb0780c7a3f1626fa8803b921dee25d3a96f6d3a63abe9a43e0be4f5e6",
+  "size": 3642944,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.79.bin",
   "notes": [
-    "PRINT > PRINTER is a wheel: profile, printer, darkness, labels, speaks, feed, width, test page",
-    "PRINTER opens the connection wheel: use, find WiFi, Bluetooth, switch, address, forget",
-    "Each setting has its own page, and a (?) that says what it does",
-    "Printer profiles: save the settings to the card by name, load them back",
-    "Profiles are text files in /printers, for writing on a computer too",
-    "A profile with a match line loads itself when that printer is chosen"
+    "Your counters fill from the sides, the foot last",
+    "BASIC at a table fills its rows from the top",
+    "Wider opponent wedges: name over the life",
+    "Their counters in a row along the wedge",
+    "Monarch first, then commander damage, poison",
+    "Tap the row: a live window of their counters",
+    "It follows them as they play",
+    "Your face works under it; tap it to close"
   ]
 }
