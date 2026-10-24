@@ -1,17 +1,16 @@
 {
-  "version": "3.0.80",
-  "version_code": 30080,
-  "sha256": "735bb6534fc6b7d60174612d65ed46dbb211fe94dacec1ad572971076396af32",
-  "size": 3645552,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.80.bin",
+  "version": "3.0.81",
+  "version_code": 30081,
+  "sha256": "ecb97b6fd77c34f2fef95e7026b1a7abc85548db76367283d3e39fa12bda14b5",
+  "size": 3649616,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.81.bin",
   "notes": [
-    "The Monarch wears a crown over their square",
-    "The Initiative sits beside it",
-    "Squares are taller, with their counters inside",
-    "Tap a square: the live window of their counters",
-    "The live window's top line opens their sheet",
-    "Your counters start level under the squares",
-    "Phones show the commander damage they have taken",
-    "Phone: - and + put a commander's damage right"
+    "TEAMS lobby: ASSIGN puts each name in a team",
+    "Team A, B and C, a lead and a partner each",
+    "Tap a name: it joins the lit team",
+    "The first name in a team is its lead",
+    "Tap a name in a team to take it out",
+    "SHUFFLE and CLEAR inside; the tick sets them",
+    "Nobody else moves when you move someone"
   ]
 }
