@@ -1,17 +1,17 @@
 {
-  "version": "3.0.79",
-  "version_code": 30079,
-  "sha256": "032140bb0780c7a3f1626fa8803b921dee25d3a96f6d3a63abe9a43e0be4f5e6",
-  "size": 3642944,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.79.bin",
+  "version": "3.0.80",
+  "version_code": 30080,
+  "sha256": "735bb6534fc6b7d60174612d65ed46dbb211fe94dacec1ad572971076396af32",
+  "size": 3645552,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.80.bin",
   "notes": [
-    "Your counters fill from the sides, the foot last",
-    "BASIC at a table fills its rows from the top",
-    "Wider opponent wedges: name over the life",
-    "Their counters in a row along the wedge",
-    "Monarch first, then commander damage, poison",
-    "Tap the row: a live window of their counters",
-    "It follows them as they play",
-    "Your face works under it; tap it to close"
+    "The Monarch wears a crown over their square",
+    "The Initiative sits beside it",
+    "Squares are taller, with their counters inside",
+    "Tap a square: the live window of their counters",
+    "The live window's top line opens their sheet",
+    "Your counters start level under the squares",
+    "Phones show the commander damage they have taken",
+    "Phone: - and + put a commander's damage right"
   ]
 }
