@@ -1,17 +1,13 @@
 {
-  "version": "3.0.83",
-  "version_code": 30083,
-  "sha256": "e1b9ea234a11a1fcc32194317082ec222111d488df108c2f55f89cb4a8737958",
-  "size": 3652128,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.83.bin",
+  "version": "3.0.84",
+  "version_code": 30084,
+  "sha256": "afbb2830f735b341d8f060989d6ef563238a4344a7a1609b33deb2b15c1b0c57",
+  "size": 3651984,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.84.bin",
   "notes": [
-    "WIFI wheel: SEARCH, CONNECT, LOCAL LINK, PHONE SETUP",
-    "CONNECT joins the saved network again",
-    "LOCAL LINK is the table radio; off shows why",
-    "PHONE SETUP: type the password on a phone",
-    "PRINTER wheel: FIND, LOAD, CONFIGURE, TEST PAGE",
-    "FIND: Bluetooth, WiFi, address, switch, use, forget",
-    "LOAD: the profiles on the card",
-    "CONFIGURE: darkness, labels, speaks, feed, width"
+    "Home: the WiFi button opens the WIFI wheel",
+    "SEARCH, CONNECT, LOCAL LINK, PHONE SETUP, FILES, FORGET",
+    "Home: the printer button opens the PRINTER wheel",
+    "FIND, LOAD, CONFIGURE, TEST PAGE"
   ]
 }
