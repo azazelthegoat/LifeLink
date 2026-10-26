@@ -1,16 +1,17 @@
 {
-  "version": "3.0.81",
-  "version_code": 30081,
-  "sha256": "ecb97b6fd77c34f2fef95e7026b1a7abc85548db76367283d3e39fa12bda14b5",
-  "size": 3649616,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.81.bin",
+  "version": "3.0.82",
+  "version_code": 30082,
+  "sha256": "6d03f632a1a8b91b3eecba5490730afa51d4e3ea56500251434758174f8157ae",
+  "size": 3651440,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.82.bin",
   "notes": [
-    "TEAMS lobby: ASSIGN puts each name in a team",
-    "Team A, B and C, a lead and a partner each",
-    "Tap a name: it joins the lit team",
-    "The first name in a team is its lead",
-    "Tap a name in a team to take it out",
-    "SHUFFLE and CLEAR inside; the tick sets them",
-    "Nobody else moves when you move someone"
+    "Home: WiFi and printer buttons above START",
+    "WiFi opens the WIFI page, the printer the Bluetooth scan",
+    "KEYS keyboard: full-size rows of keys",
+    "?123 is a numpad of big keys",
+    "#+= on the numpad swaps in the symbols",
+    "Tap in the text box to put the caret there",
+    "Backspace and typing work at the caret",
+    "Hold the text box to select it all"
   ]
 }
