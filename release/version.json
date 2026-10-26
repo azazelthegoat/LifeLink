@@ -1,12 +1,11 @@
 {
-  "version": "3.0.86",
-  "version_code": 30086,
-  "sha256": "468ae50350f4c440f5d655d65b833895172787f67767ccc99bc62df30ae3a835",
-  "size": 3681040,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.86.bin",
+  "version": "3.0.87",
+  "version_code": 30087,
+  "sha256": "14ca47d3d0bc7fcf18e3b7d137b051c1dacb7f0b9a90be7070787d27a04a038d",
+  "size": 3680992,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.87.bin",
   "notes": [
-    "Developer row: Token glyphs, MTG or AA",
-    "The AA set is our own counter art (placeholders for now)",
-    "Font tools can swap the display serif"
+    "The AA token glyphs are in: Alex's own fourteen",
+    "SETUP > Maintenance > Token glyphs shows them"
   ]
 }
