@@ -1,13 +1,12 @@
 {
-  "version": "3.0.85",
-  "version_code": 30085,
-  "sha256": "7ac7a78323baf3d6e997acc32994f6b2abd74d533fe634e466b0424ec1c97e59",
-  "size": 3652144,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.85.bin",
+  "version": "3.0.86",
+  "version_code": 30086,
+  "sha256": "468ae50350f4c440f5d655d65b833895172787f67767ccc99bc62df30ae3a835",
+  "size": 3681040,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.86.bin",
   "notes": [
-    "Home: the WiFi and printer buttons open a page",
-    "The page is the list: SEARCH, CONNECT, LOCAL LINK ...",
-    "... and FIND, LOAD, CONFIGURE, TEST PAGE",
-    "BLUETOOTH wears a radio glyph (the rune is a trademark)"
+    "Developer row: Token glyphs, MTG or AA",
+    "The AA set is our own counter art (placeholders for now)",
+    "Font tools can swap the display serif"
   ]
 }
