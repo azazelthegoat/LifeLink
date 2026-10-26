@@ -1,17 +1,17 @@
 {
-  "version": "3.0.82",
-  "version_code": 30082,
-  "sha256": "6d03f632a1a8b91b3eecba5490730afa51d4e3ea56500251434758174f8157ae",
-  "size": 3651440,
-  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.82.bin",
+  "version": "3.0.83",
+  "version_code": 30083,
+  "sha256": "e1b9ea234a11a1fcc32194317082ec222111d488df108c2f55f89cb4a8737958",
+  "size": 3652128,
+  "url": "https://github.com/azazelthegoat/LifeLink/raw/main/release/lifelink-3.0.83.bin",
   "notes": [
-    "Home: WiFi and printer buttons above START",
-    "WiFi opens the WIFI page, the printer the Bluetooth scan",
-    "KEYS keyboard: full-size rows of keys",
-    "?123 is a numpad of big keys",
-    "#+= on the numpad swaps in the symbols",
-    "Tap in the text box to put the caret there",
-    "Backspace and typing work at the caret",
-    "Hold the text box to select it all"
+    "WIFI wheel: SEARCH, CONNECT, LOCAL LINK, PHONE SETUP",
+    "CONNECT joins the saved network again",
+    "LOCAL LINK is the table radio; off shows why",
+    "PHONE SETUP: type the password on a phone",
+    "PRINTER wheel: FIND, LOAD, CONFIGURE, TEST PAGE",
+    "FIND: Bluetooth, WiFi, address, switch, use, forget",
+    "LOAD: the profiles on the card",
+    "CONFIGURE: darkness, labels, speaks, feed, width"
   ]
 }
